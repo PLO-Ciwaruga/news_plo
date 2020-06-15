@@ -23,7 +23,7 @@ var nmsl_Det = 0;
 var nmsl_Kom = 0;
 var nmsl_Rep = 0;
 
-fetch("result.json")
+fetch("annotation/result.json")
     .then(function(resp){
         return resp.json();
     })

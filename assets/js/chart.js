@@ -5,7 +5,7 @@ var clickbait = 0;
 var misleading = 0;
 var notMisleading = 0;
 
-fetch("result.json")
+fetch("annotation/result.json")
     .then(function(resp){
         return resp.json();
     })

@@ -1,5 +1,5 @@
 $(document).ready(function(){
-    $.getJSON("..//result.json", function(data){
+    $.getJSON("annotation/result.json", function(data){
         var news = '';
         $.each(data, function(key, value){
             news += '<tr>';
@@ -13,7 +13,7 @@ $(document).ready(function(){
         $('#clickbait_table').append(news);
     });
 
-    $.getJSON("..//result.json", function(data){
+    $.getJSON("annotation/result.json", function(data){
         var news = '';
         $.each(data, function(key, value){
             news += '<tr>';
@@ -27,7 +27,7 @@ $(document).ready(function(){
         $('#misleading_table').append(news);
     });
 
-    $.getJSON("..//result.json", function(data){
+    $.getJSON("annotation/result.json", function(data){
         var news = '';
         $.each(data, function(key, value){
             news += '<tr>';
@@ -41,7 +41,7 @@ $(document).ready(function(){
         $('#notMisleading_table').append(news);
     });
 
-    $.getJSON("..//result.json", function(data){
+    $.getJSON("annotation/result.json", function(data){
         var news = '';
         $.each(data, function(key, value){
             news += '<tr>';
