@@ -29,7 +29,7 @@ fetch("result.json")
                 misleading++;
             }
         }
-        console.log(misleading);
+        console.log(data[1].data.sumber);
 
         let myChart1 = document.getElementById('myChart').getContext('2d');
 
@@ -39,13 +39,18 @@ fetch("result.json")
                 labels:['Clickbait', 'Neutral'],
                 datasets:[{
                     label : 'Population',
-                        data: [
+                    data: [
                         clickbait,
                         neutral
-                        ],
+                    ],
+                    backgroundColor : ['#f99487', '#8b8997']
                     }]
             },
-            options : {},
+            options : {title: {
+                display: true,
+                text: 'Judul Berita',
+                fontSize : 23
+            }},
         });
 
         let myChart2 = document.getElementById('myChart2').getContext('2d');
@@ -56,13 +61,18 @@ fetch("result.json")
 			labels:['Misleading', 'Not Misleading'],
 			datasets:[{
 					label : 'Population',
-						data: [
-							misleading,
-							notMisleading
-						],
+					data: [
+						misleading,
+						notMisleading
+                    ],
+                    backgroundColor : ['#f99487', '#8b8997']
 					}]
 			},
-			options : {},
+			options : {title: {
+                display: true,
+                text: 'Judul Berita',
+                fontSize : 23
+            }},
 		});
     });
 
