@@ -6,7 +6,7 @@
 -->
 <html>
 	<head>
-		<title>PLO News</title>
+		<title>Statistik Data Teranotasi</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.3/Chart.min.js"></script>
@@ -36,124 +36,50 @@
 									</ul>
 								</header>
 
-							<!-- Banner -->
-								<section id="banner">
-									<div class="content">
-										<header>
-											<h1>Awali Hari dengan Berita</h1>
-											<p>Membaca Bersama Kami</p>
-										</header>
-										<p>Kami ada untuk membantu memperlihatkan berapa banyak berita dengan judul menjebak sehingga anda dapat mengidentifikasi judul berita seperti apa yang sesuai.</p>
-										<ul class="actions">
-											<li><a href="#mulai" class="button big">Mulai</a></li>
-										</ul>
-									</div>
-									<span class="image object gambar">
-											<img src="images/fp.png" alt="" />
-											<div class="overlay">	
-											</div>										
-									</span>
-								</section>
-																							
-							<!-- Section -->
-								<section id="mulai">
-									<header class="major">
-										<h2>Berita Masuk: </h2>
-									</header> 
-									<div class="posts">
-										<article>
-											<div class="chart">
-												<canvas id="myChart"></canvas>
-											</div>												
-										</article>
-
-										<article>
-											<div class="chart2">
-												<canvas id="myChart2"></canvas>
-											</div>								
-										</article>
-									</div>
-								</section>
-
+							<!-- Content -->
 								<section>
-									<div class="posts" style="padding-top: 15px;">										
-										<article>
-											<a href="#" class="image">
-												<span class="gambars">
-													<img src="images/koran.jpg"/>
-													<div class="overlay">	
-													</div>
-												</span>
-											</a>
-										</article>
-										<article>
-											<h2>Berita yang Diperoleh</h2>
-											<h3><font color= "bf3d13">Total berita : 100</font></h3>
-											<ul class="actions">
-												<li><a href="statisticdata.html" class="button">More</a></li>
-											</ul>
-										</article>
-								</section>
+									<div class="container">
+										<h1 id="Clickbait">Berita Clickbait</h1>
+										<div class="table-responsive">
+											<table class = "table table-bordered table-stripped" id="clickbait_table">
+												<tr>
+													<th>Sumber</th>
+													<th>Judul Berita</th>            
+												</tr>
+											</table>
+										</div>
 
-								<section>					
-									<div class="posts" style="padding-top: 20px;">										
-										<article>
-											<a href="#" class="image">
-												<span class="gambar">
-													<img src="images/unclickbait.jpg" alt="" />
-													<div class="overlay">	
-													</div>
-												</span>
-											</a>
-											<h3>Berita Non-Clickbait</h3>
-											<h3><font color= "bf3d13">Total berita : 87</font></h3>
-											<ul class="actions">
-												<li><a href="statisticdata.html" class="button">More</a></li>
-											</ul>
-										</article>
-										<article>
-											<a href="#" class="image">
-												<span class="gambar">
-													<img src="images/unmisleading.jpg" alt="" />
-													<div class="overlay">	
-													</div>
-												</span>
-											</a>
-											<h3>Berita Tidak Menyesatkan</h3>
-											<h3><font color= "bf3d13">Total berita : 95</font></h3>
-											<ul class="actions">
-												<li><a href="statisticdata.html" class="button">More</a></li>
-											</ul>
-										</article>
-										<article>
-											<a href="#" class="image">
-												<span class="gambar">
-													<img src="images/clickbait.png" alt="" />
-													<div class="overlay">	
-													</div>
-												</span>
-											</a>
-											<h3>Berita Clickbait</h3>
-											<h3><font color= "bf3d13">Total berita : 13</font></h3>
-											<ul class="actions">
-												<li><a href="statisticdata.html" class="button">More</a></li>
-											</ul>
-										</article>
-										<article>
-											<a href="#" class="image">
-												<span class="gambar">
-													<img src="images/misleading.jpg" alt="" />
-													<div class="overlay">	
-													</div>
-												</span>
-											</a>
-											<h3>Berita Menyesatkan</h3>
-											<h3><font color= "bf3d13">Total berita : 5</font></h3>
-											<ul class="actions">
-												<li><a href="statisticdata.html" class="button">More</a></li>
-											</ul>
-										</article>
+										<h1 id="Misleading">Berita Menyimpang</h1>
+										<div class="table-responsive">
+											<table class = "table table-bordered table-stripped" id="misleading_table">
+												<tr>
+													<th>Sumber</th>
+													<th>Judul Berita</th>            
+												</tr>
+											</table>
+										</div>
+										
+										<h1 id="notClickbait">Berita Non-Clickbait</h1>
+										<div class="table-responsive">
+											<table class = "table table-bordered table-stripped" id="nonClickbait_table">
+												<tr>
+													<th>Sumber</th>
+													<th>Judul Berita</th>            
+												</tr>
+											</table>
+										</div>
+
+										<h1 id="notMisleading">Berita Tidak Menyimpang</h1>
+										<div class="table-responsive">
+											<table class = "table table-bordered table-stripped" id="notMisleading_table">
+												<tr>
+													<th>Sumber</th>
+													<th>Judul Berita</th>            
+												</tr>
+											</table>
+										</div>
 									</div>
+
 								</section>
 
 						</div>
@@ -182,11 +108,11 @@
 										<li>
 											<span class="opener">Semua Berita</span>
 											<ul>
-												<li><a href="statisticdata.html">Statistik Data yang Dianotasi</a></li>
-												<li><a href="newsList.html">Berita Clickbait</a></li>
-												<li><a href="newsList.html">Berita Non-Clickbait</a></li>
-												<li><a href="newsList.html">Berita Menyimpang</a></li>
-												<li><a href="newsList.html">Berita Tidak Menyimpang</a></li>
+												<li><a href="#">Statistik Data yang Dianotasi</a></li>
+												<li><a href="#Clickbait">Berita Clickbait</a></li>
+												<li><a href="#notClickbait">Berita Non-Clickbait</a></li>
+												<li><a href="#Misleading">Berita Menyimpang</a></li>
+												<li><a href="#notMisleading">Berita Tidak Menyimpang</a></li>
 											</ul>
 										</li>
 									</ul>
@@ -239,6 +165,8 @@
 			<script src="assets/js/breakpoints.min.js"></script>
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
-			<script src="assets/js/chart.js"></script>
+			<script src="assets/js/statistikChart.js"></script>
+			<script src="assets/js/news.js"></script>
+
 	</body>
 </html>
