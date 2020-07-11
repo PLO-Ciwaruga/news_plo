@@ -36,7 +36,7 @@ fetch("annotation/result.json")
         let massPopChart = new Chart(myChart1, {
             type: 'doughnut',
             data: {
-                labels:['Clickbait', 'Neutral'],
+                labels:['Clickbait', 'Netral'],
                 datasets:[{
                     label : 'Population',
                     data: [
@@ -58,7 +58,7 @@ fetch("annotation/result.json")
 		let massPopChart2 = new Chart(myChart2, {
 			type: 'doughnut',
 			data: {
-			labels:['Misleading', 'Not Misleading'],
+			labels:['Menyimpang', 'Tidak Menyimpang'],
 			datasets:[{
 					label : 'Population',
 					data: [
