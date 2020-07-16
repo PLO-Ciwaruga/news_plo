@@ -10,7 +10,7 @@
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.3/Chart.min.js"></script>
-		<link rel="stylesheet" href="assets/css/datatables.css">
+		<link rel="stylesheet" href="assets/css/footable.standalone.css">
 		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
 		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 		<link rel="stylesheet" href="assets/css/main.css" />
@@ -41,11 +41,24 @@
 									<div class="container">
 										<h1 id="notMisleading">Berita Tidak Menyimpang</h1>
 										<div class="table-responsive">
-											<table class = "table table-bordered table-stripped" id="notMisleading_table">
-												<tr>
-													<th>Sumber</th>
-													<th>Judul Berita</th>            
-												</tr>
+											<table class="notMisleading_tbl" data-paging="true" data-filtering="true" data-sorting="true" data-state="true" id="notMisleading_table">
+												<thead>
+													<tr>
+														<th>Sumber</th>
+														<th>Judul Berita</th>            
+													</tr>
+												</thead>
+												<tbody>
+
+												</tbody>
+												<tfoot class="hide-if-no-paging">
+													<tr>
+													  <td colspan="5" class="text-center">
+														  <ul class="pagination">
+														  </ul>
+													  </td>
+													</tr>
+												</tfoot>
 											</table>
 										</div>
 									</div>
@@ -58,14 +71,6 @@
 				<!-- Sidebar -->
 					<div id="sidebar">
 						<div class="inner">
-
-							<!-- Search -->
-								<section id="search" class="alt">
-									<form method="post" action="#">
-										<input type="text" name="query" id="query" placeholder="Search" />
-									</form>
-								</section>
-
 							<!-- Menu -->
 								<nav id="menu">
 									<header class="major">
@@ -135,8 +140,9 @@
 			<script src="assets/js/breakpoints.min.js"></script>
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
-			<script src="assets/js/statistikChart.js"></script>
 			<script src="assets/js/news.js"></script>
 			<script type="text/javascript" src="assets/js/datatables.js"></script>
+			<script type="text/javascript" src="assets/js/footable.js"></script>
+
 	</body>
 </html>
