@@ -30,72 +30,75 @@ fetch("annotation/result.json")
     .then(function(data){
         for(var i = 0; i < data.length; i++)
         {
-            if(data[i].completions[0].result[0].value.choices == "Neutral")
+            if(data[i].completions[0].result[0] != undefined)
             {
-                neutral++;
+                if(data[i].completions[0].result[0].value.choices == "Neutral")
+                {
+                    neutral++;
 
-                if(data[i].data.sumber == "Detik")
-                {
-                	neut_Det++;
+                    if(data[i].data.sumber == "Detik")
+                    {
+                        neut_Det++;
+                    }
+                    else if(data[i].data.sumber == "Kompas")
+                    {
+                        neut_Kom++;
+                    }
+                    else if(data[i].data.sumber == "Republika")
+                    {
+                        neut_Rep++;
+                    }
                 }
-                else if(data[i].data.sumber == "Kompas")
-                {
-                	neut_Kom++;
-                }
-                else if(data[i].data.sumber == "Republika")
-                {
-                	neut_Rep++;
-                }
-            }
-            else{
-                clickbait++;
+                else{
+                    clickbait++;
 
-                if(data[i].data.sumber == "Detik")
-                {
-                	cb_Det++;
+                    if(data[i].data.sumber == "Detik")
+                    {
+                        cb_Det++;
+                    }
+                    else if(data[i].data.sumber == "Kompas")
+                    {
+                        cb_Kom++;
+                    }
+                    else if(data[i].data.sumber == "Republika")
+                    {
+                        cb_Rep++;
+                    }
                 }
-                else if(data[i].data.sumber == "Kompas")
-                {
-                	cb_Kom++;
-                }
-                else if(data[i].data.sumber == "Republika")
-                {
-                	cb_Rep++;
-                }
-            }
 
-            if(data[i].completions[0].result[1].value.choices == "Not Misleading")
-            {
-                notMisleading++;
+                if(data[i].completions[0].result[1].value.choices == "Not Misleading")
+                {
+                    notMisleading++;
 
-                if(data[i].data.sumber == "Detik")
-                {
-                	nmsl_Det++;
+                    if(data[i].data.sumber == "Detik")
+                    {
+                        nmsl_Det++;
+                    }
+                    else if(data[i].data.sumber == "Kompas")
+                    {
+                        nmsl_Kom++;
+                    }
+                    else if(data[i].data.sumber == "Republika")
+                    {
+                        nmsl_Rep++;
+                    }
                 }
-                else if(data[i].data.sumber == "Kompas")
+                else 
                 {
-                	nmsl_Kom++;
-                }
-                else if(data[i].data.sumber == "Republika")
-                {
-                	nmsl_Rep++;
-                }
-            }
-            else 
-            {
-                misleading++;
+                    misleading++;
 
-                if(data[i].data.sumber == "Detik")
-                {
-                	msl_Det++;
-                }
-                else if(data[i].data.sumber == "Kompas")
-                {
-                	msl_Kom++;
-                }
-                else if(data[i].data.sumber == "Republika")
-                {
-                	msl_Rep++;
+                    if(data[i].data.sumber == "Detik")
+                    {
+                        msl_Det++;
+                    }
+                    else if(data[i].data.sumber == "Kompas")
+                    {
+                        msl_Kom++;
+                    }
+                    else if(data[i].data.sumber == "Republika")
+                    {
+                        msl_Rep++;
+                    }
                 }
             }
         }
