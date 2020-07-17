@@ -12,21 +12,24 @@ fetch("annotation/result.json")
     .then(function(data){
         for(var i = 0; i < data.length; i++)
         {
-            if(data[i].completions[0].result[0].value.choices == "Neutral")
+            if(data[i].completions[0].result[0] != undefined)
             {
-                neutral++;
-            }
-            else{
-                clickbait++;
-            }
+                if(data[i].completions[0].result[0].value.choices == "Neutral")
+                {
+                    neutral++;
+                }
+                else{
+                    clickbait++;
+                }
 
-            if(data[i].completions[0].result[1].value.choices == "Not Misleading")
-            {
-                notMisleading++;
-            }
-            else 
-            {
-                misleading++;
+                if(data[i].completions[0].result[1].value.choices == "Not Misleading")
+                {
+                    notMisleading++;
+                }
+                else 
+                {
+                    misleading++;
+                }
             }
         }
         console.log(data[1].data.sumber);

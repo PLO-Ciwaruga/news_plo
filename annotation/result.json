@@ -2,6 +2,3048 @@
   {
     "completions": [
       {
+        "created_at": 1594867022,
+        "id": 47001,
+        "lead_time": 12.517,
+        "result": [
+          {
+            "from_name": "clickbait",
+            "id": "6mJKFJThVW",
+            "to_name": "judul",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Clickbait"
+              ]
+            }
+          },
+          {
+            "from_name": "misleading",
+            "id": "zLKtLWBXUp",
+            "to_name": "isi",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Not Misleading"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "isi": "\nKOMPAS.com - Perempuan 53 tahun seorang  pedagang ayam di Pasar Cempaka Kumai, Kabupaten  Kotawaringin Barat,  Kalimantan Tengah dinyatakan positif Covid-19.\nNamun warga Kelurahan Candi tersebut menolak diisolasi di Rumah Sakit Sultan Imanuddin saat didatangi petugas kesehatan dari Puskesmas Kumai pada Sabtu (11/7/2020). Ia bahkan tetap berjualan daging ayam di pasar.\nHari itu petugas kesehatan datang ke rumah pasien untuk menyampaikan hasil test swab yang positif Covid-19 dan juga tracing kontak erat pasien.\nBaca juga: \nPenolakan pasien tersebut terekam di sebuah video berdurasi 3 menit 49 detik yang direkam Samsul, petugas kesehatan Puskesmas Kumai.\nDi awal video, pasien mengaku tidak sakit dan hanya kurang tidur.\n\"Sudah 20 hari (sejak di-rapid test). Saya enggak sakit apa-apa. Cuma kurang darah saja kata dokter,\" ujar si pasien dalam salah satu bahasa daerah.\nSuami pasien kemudian menimpali pernyataan istrinya. Dia mengatakan istrinya sakit karena setan bukan karena virus corona.\nBaca juga: \n\"Kalau sakit memang sampai sekarang, (tapi) cuma 4 hari saja (yang benar-benar) sakit, cuma setan saja itu,\" kata suaminya.\nIa pun mengancam jika tidak boleh ada yang menjemput istrinya.\n\"Biar mati enggak apa-apa. Semua manusia itu pasti mati semua. Seperti apa corona itu, saya mau tahu,\" ujar sang suami dengan nada meninggi.\nDi video tersebut, Samsul kemudian meminta agar pasien dan keluarganya melakukan  isolasi mandiri dan untuk sementara menghindari interaksi dengan orang lain.\nSementara itu kepada Kompas.com, Samsul mengklaim telah berusaha maksimal untuk membujuk pasien dan keluarga agar mau isolasi. Namun mereka tetap menolak.\nBaca juga: \n ",
+      "judul": "Positif Covid-19, Suami Pasien Sebut Istrinya Sakit karena Setan: Seperti Apa Corona, Saya Mau Tahu",
+      "sumber": "Kompas",
+      "tanggal": "Kompas.com - 16/07/2020, 06:16 WIB"
+    },
+    "id": 47
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1594861164,
+        "id": 14001,
+        "lead_time": 80.965,
+        "result": [
+          {
+            "from_name": "clickbait",
+            "id": "LCwSGo_ZMr",
+            "to_name": "judul",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Clickbait"
+              ]
+            }
+          },
+          {
+            "from_name": "misleading",
+            "id": "Z1n8hCcWhi",
+            "to_name": "isi",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Not Misleading"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "isi": "\nJakarta - Bos startup, Fahmi Saleh (33) ditemukan termutilasi di apartemen mewahnya di New York, Amerika Serikat (AS). Polisi menemukan gergaji listrik di lokasi kejadian.Adik perempuan Saleh, menemukan mayat korban di apartemen, pada Selasa (14/7). Setelah itu, dia menghubungi polisi.\"Dia dipotong-potong. Kematiannya dianggap sebagai pembunuhan,\" kata seorang juru bicara NYPD, seperti dilansir AFP, Kamis (16/7/2020).\nThe New York Times melaporkan, para detektif menemukan gergaji listrik di dekat tubuh saleh. Kepala dan anggota tubuhnya ditemukan terpisah di beberapa tempat di apartemen.Investigasi masih dilakukan, namun belum ada pelaku yang ditangkap.Polisi juga belum menyampaikan motif pembunuhan. Namun, Daily News mengatakan para penyidik yakin itu mungkin karena ada perselisihan bisnis.Saleh, putra imigran Bangladesh, adalah CEO aplikasi pengangkutan dan penyambutan sepeda motor Nigeria, Gokada.Dia juga merupakan mitra pendiri Adventure Capital, yang berinvestasi dalam startup di negara-negara berkembang.Menurut laporan media lokal, Saleh baru-baru ini membeli apartemen tempat dia dibunuh, di Manhattan dengan harga sekitar $ 2,2 juta.\n(aik/mae)\nmutilasi\npembunuhan\nnew york\namerika serikat\n",
+      "judul": "Bos Startup Ditemukan Tewas Dimutilasi di Apartemennya di New York",
+      "sumber": "Detik",
+      "tanggal": "Kamis, 16 Jul 2020 06:49 WIB"
+    },
+    "id": 14
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1594860171,
+        "id": 7001,
+        "lead_time": 90.459,
+        "result": [
+          {
+            "from_name": "clickbait",
+            "id": "TLPTxP7xI4",
+            "to_name": "judul",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Neutral"
+              ]
+            }
+          },
+          {
+            "from_name": "misleading",
+            "id": "V1KvYspL7B",
+            "to_name": "isi",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Not Misleading"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "created_at": 1594860421,
+        "id": 7002,
+        "lead_time": 325.818,
+        "result": [
+          {
+            "from_name": "clickbait",
+            "id": "SZxEzdcXUM",
+            "to_name": "judul",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Neutral"
+              ]
+            }
+          },
+          {
+            "from_name": "misleading",
+            "id": "meWaV0OKr9",
+            "to_name": "isi",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Not Misleading"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "isi": "\nREPUBLIKA.CO.ID, PADANG -- Ahli kesehatan Universitas Andalas (Unand) Padang Provinsi Sumatera Barat Dr Andani Eka Putra mengingatkan jangan sampai pelaksanaan pilkada menjadi sumber penambahan baru kasus Corona Virus Disease (Covid-19). \"Oleh sebab itu sejak awal perlu dilakukan edukasi dan sosialisasi bagaimana pelaksanaan pilkada yang aman dan mengikuti protokol kesehatan,\" kata dia di Padang, Rabu (15/7). \nAndani mengakui untuk mendorong masyarakat mematuhi protokol Covid-19 seperti membiasakan pakai masker hingga mencuci tangan sangat sulit. \"Ini merupakan salah satu masalah yang dihadapi selama ini dalam menanggulangi Covid-19,\" ujar kepala Laboratorium Diagnostik Riset Terpadu Penyakit Infeksi Fakultas Kedokteran Unand tersebut.\nMenurut dia, untuk mencegah pilkada menjadi sumber penambahan kasus baru Covid-19, semua aparat yang terkait dengan penyelenggaraan pilkada mulai dari KPU, Bawaslu dan petugas di tingkat TPS harus memahami dengan baik pola penyebarannya. Ia memaparkan saat ini 90 persen pasien Covid-19 di Sumbar adalah orang tanpa gejala sehingga perlu berhari-hati.\n\"Bayangkan 90 persen yang terpapar tanpa gejala, jadi kita tidak tahu siapa yang sudah positif dan dapat menularkan,\" kata dia.\nKarena itu, jajaran penyelenggara pilkada yang banyak berinteraksi dengan orang perlu memahami hal ini dan melakukan pengendalian. Ia melihat berdasarkan kondisi perkembangan Covid-19 di Sumbar saat ini jumlah penyebaran virus kepada orang lain termasuk kecil.\n\"Dengan angka kesembuhan mencapai 83 persen dan rasio positif rate di bawah 0,5 persen maka disimpulkan secara sederhana pelaksanaan pilkada layak digelar,\" ujarnya.\nNamun, ia mengingatkan karakteristik penyebaran Covid-19 adalah terjadi kontak erat intensif minimal dua sampai tiga hari dengan durasi 15 hingga 30 menit per hari. \"Karena itu pelaksanaan rapat yang intensif menjadi masalah dan peluang penularan,\" kata dia.\nIa menyampaikan empat langkah yang perlu dilakukan adalah mencuci tangan, menjaga jarak, memakai masker, dan mandi setiba di rumah jika pulang dari daerah risiko tinggi seperti pasar dan tempat umum lainnya. Kemudian petugas penyelenggara pilkada harus rajin mencuci tangan, memakai masker, sarung tangan dan dapat juga memakai jas hujan sebagai pengganti hazmat.\nIa memperkirakan hingga dua tahun ke depan belum tentu bisa menghilangkan Covid-19 dan yang dapat dilakukan saat ini adalah memutus mata rantai penularan dengan melaksanakan protokol Covid-19 dan pemeriksaan secara masif.\nsumber : Antara \n",
+      "judul": "Ahli: Jangan Sampai Pilkada Tambah Kasus Baru Covid-19",
+      "sumber": "Republika",
+      "tanggal": "Kamis   16 Jul 2020  05:12 WIB\n"
+    },
+    "id": 7,
+    "predictions": []
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1594867068,
+        "id": 49001,
+        "lead_time": 6.983,
+        "result": [
+          {
+            "from_name": "clickbait",
+            "id": "cwFQ2l0eUv",
+            "to_name": "judul",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Neutral"
+              ]
+            }
+          },
+          {
+            "from_name": "misleading",
+            "id": "e0s6KsYTcQ",
+            "to_name": "isi",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Not Misleading"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "isi": "\n DEPOK, KOMPAS.com - Pemerintah Kota  Depok kembali mengumumkan penambahan dalam temuan kasus baru pasien positif  Covid-19. Di samping itu, temuan orang dalam pemantauan (ODP), pasien dalam pengawasan (PDP), maupun orang tanpa gejala (OTG) juga masih meningkat, selain juga jumlah pasien positif Covid-19 yang dinyatakan pulih. Pemkot Depok juga mengumumkan jumlah kematian kasus PDP.\nKeterbukaan data kematian PDP termasuk dalam anjuran WHO, karena para korban kemungkinan terjangkit Covid-19, namun belum sempat dites di laboratorium hingga saat meninggal dunia.\nBaca juga:  Sorotan terkini, jumlah temuan kasus positif Covid-19 tertinggi selama 26 hari terakhir, yakni 18 orang.\nTemuan kasus positif Covid-19 terbanyak di Depok sebelumnya, yakni pada 19 Juni, dengan 21 pasien baru.\n Di sisi lain, jumlah ODP yang sedang dipantau merosot drastis 188 angka, dan jumlah PDP yang sedang diawasi berkurang 42 orang sekaligus.\nBaca juga:  Berikut rincian perkembangan terkini kasus Covid-19 di Depok per Rabu (15/7/2020): Kasus kumulatif (keseluruhan) 1. Pasien positif: 908 (bertambah 18) ",
+      "judul": "[UPDATE] Grafik Covid-19 15 Juli: Lonjakan Tertinggi Sejak 26 Hari Terakhir",
+      "sumber": "Kompas",
+      "tanggal": "Kompas.com - 16/07/2020, 06:10 WIB"
+    },
+    "id": 49
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1594863798,
+        "id": 31001,
+        "lead_time": 250.283,
+        "result": [
+          {
+            "from_name": "clickbait",
+            "id": "w-WAnLEtmM",
+            "to_name": "judul",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Neutral"
+              ]
+            }
+          },
+          {
+            "from_name": "misleading",
+            "id": "XU4cRBPtpM",
+            "to_name": "isi",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Not Misleading"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "isi": "\nJAKARTA, KOMPAS.com - Istri pemilik warung Amir, Sari (53) membantah disebut mengenal editor  Metro TV Yodi Prabowo. Ia dan suaminya kaget ketika Kabid Humas Polda Metro Jaya Kombes Yusri Yunus menyebutkan bahwa mereka berdua mengenal Yodi. “Saya (dan suami) bilang enggak kenal sama sekali (dengan Yodi). Memang benar-benar enggak kenal. Saya kaget kalau beritanya gitu (bilang kenal),” ujar Sari saat ditemui Kompas.com di warungnya, Rabu (15/7/2020) malam. Baca juga:  Menurut Sari, ia dan suaminya akan mengenal pembeli yang sering jajan di warungnya.  Pelanggan warungnya didominasi oleh petugas Penanganan Prasarana dan Sarana Umum (PPSU) dan orang-orang yang suka memancing di Danau Cavalio. “Ibu bapak enggak kenal sama sekali. Saya tahu mukanya Yodi dari wartawan kemarin sore. Demi Allah enggak kenal,” ujar Sari, yang berjualan kopi dan mi instan. Warung milik Amir buka pada pukul 08.00 hingga 18.00 WIB. Sari menyebutkan, suaminya sering tidur di warung.  Kompas.com sempat menunjukkan foto wajah Yodi kepada mereka. Para pemilik warung tersebut juga tak mengenali Yodi.\nBaca juga:  Amir adalah pemilik warung yang menjadi salah satu saksi dari 23 saksi yang diperiksa polisi dalam menyelidiki kematian Yodi yang jasadnya ditemukan di pinggir Tol JORR Pesanggrahan Jalan Ulujami Raya, Pesanggrahan, Jakarta Selatan, Jumat (10/7/2020) lalu. Sejumlah saksi tersebut di antaranya keluarga, rekan kerja, kekasih hingga pemilik warung yang lokasinya tidak jauh dari tempat ditemukannya jasad korban. ",
+      "judul": "Pemilik Warung Amir Bantah Kenal dengan Editor Metro TV Yodi Prabowo",
+      "sumber": "Kompas",
+      "tanggal": "Kompas.com - 16/07/2020, 07:23 WIB"
+    },
+    "id": 31
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1594861376,
+        "id": 15001,
+        "lead_time": 211.005,
+        "result": [
+          {
+            "from_name": "clickbait",
+            "id": "udSUOvvykk",
+            "to_name": "judul",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Clickbait"
+              ]
+            }
+          },
+          {
+            "from_name": "misleading",
+            "id": "tApN3ZRioW",
+            "to_name": "isi",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Not Misleading"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "isi": "\nMedan -  Masih ingat dengan misteri mayat pria yang ditemukan dalam kondisi tangan terikat dan kepala ditutup goni di Deli Serdang? Belum tuntas kasus tersebut, kini muncul lagi kasus mayat ditemukan dengan kondisi kaki terikat rantai di Karo, Sumatera Utara.Kasus pertama, yakni mayat pria dengan kepala ditutup goni berawal saat ada warga menemukan mayat di bawah jembatan salah satu sungai di Gunung Meriah, Deli Serdang, pada 16 Juni 2020 siang. Pria itu diduga korban pembunuhan.\"Iya (diduga dibunuh). (Ditemukan) sekitar pukul 12.30 WIB, mayat Mr X (belum diketahui identitasnya). Kepala ditutup karung goni plastik dengan diikat tali putih, kedua tangan terikat ke belakang, dan kaki sebelah kanan juga terikat,\" ujar Kasat Reskrim Polresta Deli Serdang, Kompol M Firdaus, Selasa (16/6/2020).\nFirdaus menyebut warga yang melihat mayat kemudian melapor ke kepala desa dan kepolisian. Polisi selanjutnya datang dan melakukan olah TKP serta mengevakuasi mayat.\"Kepala desa kemudian menelepon Kapolsek Bener Meriah, yang langsung turun ke lokasi dan mengamankan barang bukti yang ada,\" tuturnya.Beberapa hari kemudian, polisi mengungkap ada sejumlah luka yang ditemukan di sekujur tubuh korban. Menurut Firdaus, ada sejumlah luka memar di punggung dan patah tulang di dada pada mayat yang diperkirakan sudah tewas 3 hari sebelum ditemukan di sungai.\"Ada luka memar di punggung, patah tulang dada, luka di belakang kepala dan luka memar pada tangan kanan,\" terang Kompol Firdaus saat dimintai konfirmasi, Minggu (21/6).Penyelidikan terus berlanjut. Polisi mengaku kesulitan mengungkap identitas mayat karena tak terdaftar pada data di Dinas Kependudukan dan Catatan Sipil. Polisi menduga hal tersebut terjadi karena pria itu belum melakukan perekaman data e-KTP.\"Penyidik masih kesulitan untuk ungkap identitas korban. Penyidik sudah ke Dukcapil untuk sidik jari korban, tapi data identitasnya tidak keluar,\" kata Kasat Reskrim Polresta Deli Serdang, Kompol M Firdaus, saat ditanya soal perkembangan penyelidikan penemuan mayat tersebut, Selasa (30/6).\nselanjutnya\n            Selanjutnya \nHalaman\n1\n2\nbiromedan\nround-up\nkaro\ndeli serdang\nmayat\npembunuhan\nmisteri\n",
+      "judul": "Belum Tuntas Kasus Mayat Tertutup Goni, Kini Muncul Pria Tewas Terikat Rantai",
+      "sumber": "Detik",
+      "tanggal": "Kamis, 16 Jul 2020 06:46 WIB"
+    },
+    "id": 15
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1594863266,
+        "id": 28001,
+        "lead_time": 7.471,
+        "result": [],
+        "skipped": true,
+        "was_cancelled": true
+      }
+    ],
+    "data": {
+      "isi": "\nJakarta - Epistimologi Khidhir tidak lagi mengandalkan logika. Bukannya Khidhir anti logika tetapi sudah melewati fase logika itu. Selama orang masih berkutat di dunia logika maka selama itu sulit untuk menembus hijab-hijab yang jumlahnya menurut hadis Nabi sebanyak 70 lapis. Menurut Imam Al-Gazali, ilmu hushuli, yaitu ilmu yang hanya diperoleh melalui olah nalar, tidak disertai olah batin, akan menjadi hijab yang yang amat tebal untuk ditembus para pencari Tuhan (salikin). Dengan kata lain, ilmu-ilmu logika sulit mengantarkan seseorang untuk menyingkap tabir rahasia Tuhan (mukasyafah).Khidhir meninggalkan Musa merupakan peristiwa simbolik. Khidhir tidak memberikan ijazah kelulusan terhadap muridnya, Musa, bahkan terkesan gagal dengan ketidak mampuannya mengikuti aturan Khidhir, akan tetapi justru itu merupakan \"tanda lulus\" agar Musa mau menyadari bahwa di atas langit masih ada langit. Dengan begitu, Musa terus akan mencari sendiri jalan ma'rifahnya menuju puncak ketinggian. Karena memang semakin ke puncak semakin memerlukan pendekatan dan kemampuan personal. Mursyid atau sang guru biasanya hanya menuntun sampai ke leher gunung tetapi ke puncak diperlukan kekuatan pribadi. Sama dengan Jibril, hanya mengantar sampai ke maqam khusus para malaikat, tetapi ke puncak (Sidratil Muntaha) Nabi Muhammad ditentukan sendiri jalannya oleh Sang Pengundang, Allah Swt. Fungsi Khidhir terhadap Nabi Musa seperti fungsi Jibril terhadap Nabi Muhammad Saw, yaitu mengantar ke leher gunung untuk sampai ke puncak seorang diri.\nSebagai seorang awam, pelajaran berharga dari kisah Khidhir dan Nabi Musa ialah: 1) Berikanlah kesempatan kepada pembawa amanah untuk meneruskan program-programnya tanpa harus banyak diintrupsi. 2) Di atas langit ada langit, tidak boleh seseorang merasa diri serba hebat sendiri. 3) Jangan pernah memandang enteng orang-orang yang kelihatan biasa-biasa, karena boleh jadi ia tidak populer di bumi tetapi populer di langit. 4) Sekolah profesional tidak mesti harus di dalam bangunan yang megah. Penjelasan fauna dan flora di papan tulis atau layar monitor, tidak bisa mengalahkan pengenalan langsung secara visual obyek itu di lapangan. 5) Jangan berhenti pada kecerdasan intelektual karena tidak banyak artinya dibandingkan dengan kecerdasan spiritual. 6) Orang pintar belum tentu arif. Kearifan lebih banyak menyelesaikan persoalan daripada kepintaran.Secara khawas, kisah Khidhir dan Nabi Musa ialah: 1) Tinggalkan logika jika ingin mukasyafah. Selama masih ada logika maka hijab tidak akan tersingkap secara keseluruhan. 2) Tujuan akhir dan merupakan puncak pencarian anak manusia sesungguhnya bukan dunia lahiriah tetapi dunia batiniah. Kepuasan puncak adalah kepuasan rohani. 3) Khidhir adalah figur personal simbolik. Khidhir secara kebahasaan berarti \"kehadiran\", seakar kata dengan hadhir yang semakna dengan bahasa Indonesia \"hadir\". Boleh jadi hati nurani kita sendiri adalah Khidhir bagi kita. Siapapun biasa menjadi Khidhir dan setiap orang mempunyai Khidhirnya masing-masing. Jika Allah Swt akan menuntun hambanya maka Ia akan mengutus Khidhir untuknya. Khidhir sesungguhnya ialah sahabat spiritual kita, siapapun dan apapun dia.\n(lus/lus)\nal-ta'lim al-muta'allim\nimam besar masjid istiqlal\nnasaruddin umar\nepistimologi khidhir\ndetik muslim\nhikmah\n",
+      "judul": "Epistimologi Khidhir",
+      "sumber": "Detik",
+      "tanggal": "Kamis, 16 Jul 2020 07:00 WIB"
+    },
+    "id": 28
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1594863887,
+        "id": 32001,
+        "lead_time": 87.557,
+        "result": [
+          {
+            "from_name": "clickbait",
+            "id": "0MIto3JatR",
+            "to_name": "judul",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Neutral"
+              ]
+            }
+          },
+          {
+            "from_name": "misleading",
+            "id": "KKEE-l8eJk",
+            "to_name": "isi",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Not Misleading"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "isi": "\nJAKARTA, KOMPAS.com - Ahli epidemiologi dari Fakultas Kesehatan Masyarakat Universitas Indonesia (FKM UI) Iwan Ariawan mengatakan, angka reproduksi efektif (Rt) Covid-19 di Jakarta terus meningkat.\nPeningkatan Rt terjadi sejak Pemprov DKI Jakarta memberlakukan pembatasan sosial berskala besar (PSBB) transisi dengan sejumlah pelonggaran.\nPada saat PSBB transisi diberlakukan, Rt Covid-19 berada di angka 0,99. Namun, Rt tersebut kini di atas 1.\n\"Rt kan sudah pernah di bawah 1, sudah pernah mulai terkendali epideminya, tapi sekarang naik lagi, kemarin itu naik di 1,15,\" ujar Iwan saat dihubungi Kompas.com, Rabu (15/7/2020).\n\"Sejak PSBB-nya diubah transisi, (Rt) itu naik lagi, pelan-pelan naik terus, itu yang mengkhawatirkan,\" tambah dia.\nBaca juga: \nRt Covid-19 merupakan tingkat potensi penularan virus. Jika angka Rt 1, berarti satu orang pasien bisa menularkan virus corona tipe 2 (SARS-CoV-2) kepada satu orang lainnya.\nIwan dan timnya di FKM UI telah memberikan hasil evaluasi mengenai Rt Covid-19 tersebut kepada Pemprov DKI pada Senin lalu.\nIwan menyampaikan, Rt Covid-19 meningkat disebabkan rendahnya tingkat kesadaran dan kedisiplinan masyarakat dalam menjalankan protokol kesehatan dan pencegahan Covid-19.\n\"Masyarakat masih menilai kemungkinan mereka terinfeksi itu kecil,\" kata dia.\nBaca juga: \nDengan naiknya Rt Covid-19 di Jakarta, Iwan menyarankan Pemprov DKI Jakarta untuk memperketat kembali kebijakan PSBB.\nJika hal tersebut tidak memungkinkan, Pemprov DKI harus melanjutkan PSBB transisi dengan sejumlah catatan.\nPertama, Pemprov DKI tidak melonggarkan lagi berbagai aktivitas, kecuali yang sudah dilonggarkan.\nBaca juga:  ",
+      "judul": "Epidemiolog: Angka Reproduksi Covid-19 di Jakarta Naik Terus Sejak PSBB Transisi, Mengkhawatirkan",
+      "sumber": "Kompas",
+      "tanggal": "Kompas.com - 16/07/2020, 07:19 WIB"
+    },
+    "id": 32
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1594863219,
+        "id": 27001,
+        "lead_time": 13.905,
+        "result": [
+          {
+            "from_name": "clickbait",
+            "id": "FQMJC95CB2",
+            "to_name": "judul",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Clickbait"
+              ]
+            }
+          },
+          {
+            "from_name": "misleading",
+            "id": "EsmrWcTk1e",
+            "to_name": "isi",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Not Misleading"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "created_at": 1594863226,
+        "id": 27002,
+        "lead_time": 6.521,
+        "result": [
+          {
+            "from_name": "clickbait",
+            "id": "FX5xjJyKWb",
+            "to_name": "judul",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Clickbait"
+              ]
+            }
+          },
+          {
+            "from_name": "misleading",
+            "id": "EFWhfL3ag2",
+            "to_name": "isi",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Not Misleading"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "created_at": 1594863233,
+        "id": 27003,
+        "lead_time": 6.308,
+        "result": [
+          {
+            "from_name": "clickbait",
+            "id": "EsQ8ftx_9V",
+            "to_name": "judul",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Clickbait"
+              ]
+            }
+          },
+          {
+            "from_name": "misleading",
+            "id": "dRQspXZtRR",
+            "to_name": "isi",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Not Misleading"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "created_at": 1594863246,
+        "id": 27004,
+        "lead_time": 12.197,
+        "result": [
+          {
+            "from_name": "clickbait",
+            "id": "BbVqZpppGT",
+            "to_name": "judul",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Clickbait"
+              ]
+            }
+          },
+          {
+            "from_name": "misleading",
+            "id": "LUdHkXb-wj",
+            "to_name": "isi",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Not Misleading"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "created_at": 1594863251,
+        "id": 27005,
+        "lead_time": 4.967,
+        "result": [
+          {
+            "from_name": "clickbait",
+            "id": "ORzsJrKCMy",
+            "to_name": "judul",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Clickbait"
+              ]
+            }
+          },
+          {
+            "from_name": "misleading",
+            "id": "AC6xw44opv",
+            "to_name": "isi",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Not Misleading"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "created_at": 1594863258,
+        "id": 27006,
+        "lead_time": 6.049,
+        "result": [
+          {
+            "from_name": "clickbait",
+            "id": "HOp9ffyrpF",
+            "to_name": "judul",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Clickbait"
+              ]
+            }
+          },
+          {
+            "from_name": "misleading",
+            "id": "V9vphpfObt",
+            "to_name": "isi",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Not Misleading"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "created_at": 1594863645,
+        "id": 27007,
+        "lead_time": 485.004,
+        "result": [
+          {
+            "from_name": "clickbait",
+            "id": "E7TV5eEtbT",
+            "to_name": "judul",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Clickbait"
+              ]
+            }
+          },
+          {
+            "from_name": "misleading",
+            "id": "Y7SYNtCvSK",
+            "to_name": "isi",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Not Misleading"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "isi": "\nJakarta -  Tuntutan ringan 1 tahun penjara terhadap dua penyerang penyidik KPK, Novel Baswedan, bikin geger dan memantik kontroversi. Kini akhir dari perjalanan kasus penyiraman air keras terhadap Novel akan segera ditentukan lewat sidang vonis yang digelar hari ini.Dua penyerang Novel yakni Ronny Bugis dan Rahmat Kadir sebelumnya diyakini jaksa penuntut umum bersalah melakukan penganiayaan berat terhadap Novel. Keduanya juga diyakini bersalah melanggar Pasal 353 ayat 2 KUHP Jo Pasal 55 ayat (1) ke-1 KUHP.\"Menuntut supaya majelis hakim Pengadilan Jakarta Utara yang memeriksa dan mengadili perkara ini memutuskan, menyatakan terdakwa terbukti secara sah dan meyakinkan melakukan tindak pidana melakukan penganiyaan dan terencana lebih dahulu dengan mengakibatkan luka berat,\" ujar jaksa saat membacakan surat tuntutan di PN Jakarta Utara, Jalan Gajah Mada, Petojo Utara, Gambir, Jakarta Pusat, Kamis (11/6).\n\"Menjatuhkan pidana penjara terhadap terdakwa dengan hukuman pidana selama 1 tahun,\" imbuh jaksa.Ada sejumlah alasan mengapa jaksa penuntut umum menuntut dua penyerang Novel dengan hukuman 1 tahun penjara. Menurut jaksa, kedua terdakwa tidak berniat sedari awal melukai bagian wajah Novel.\"Bahwa dalam fakta persidangan, terdakwa tidak pernah menginginkan melakukan penganiayaan berat. Terdakwa hanya akan memberikan pelajaran kepada saksi Novel Baswedan dengan melakukan penyiraman cairan air keras ke Novel Baswedan ke badan. Namun mengenai kepala korban. Akibat perbuatan terdakwa, saksi Novel Baswedan mengakibatkan tidak berfungsi mata kiri sebelah hingga cacat permanen,\" ujar jaksa saat membacakan tuntutan.Selain itu, jaksa memberikan tuntutan ringan kepada terdakwa karena kedua orang tersebut mengakui perbuatannya. Mereka juga disebut telah menyampaikan permohonan maaf kepada Novel dan keluarga.\"Karena, pertama, yang bersangkutan mengakui terus terang di dalam persidangan, terus kedua yang bersangkutan meminta maaf dan menyesali perbuatannya dan dia secara di persidangan menyampaikan memohon maaf kepada keluarga Novel Baswedan dan meminta maaf institusi polisi, institusi Polri itu tercoreng,\" ujar jaksa Ahmad Patoni seusai sidang.\nselanjutnya\n            Selanjutnya \nHalaman\n1\n2\n3\n4\n5\nsidang vonis penyerang novel baswedan\nvonis penyerang novel baswedan\nnovel baswedan\nsidang penyerang novel baswedan\npenyerang novel baswedan\nkpk\nround-up\n",
+      "judul": "Geger Tuntutan Ringan Penyerang Novel Baswedan yang Segera Diputuskan",
+      "sumber": "Detik",
+      "tanggal": "Kamis, 16 Jul 2020 07:02 WIB"
+    },
+    "id": 27,
+    "predictions": []
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1594864007,
+        "id": 35001,
+        "lead_time": 12.024,
+        "result": [
+          {
+            "from_name": "clickbait",
+            "id": "KIglhHG8LD",
+            "to_name": "judul",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Neutral"
+              ]
+            }
+          },
+          {
+            "from_name": "misleading",
+            "id": "egEdpfw-Ez",
+            "to_name": "isi",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Not Misleading"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "isi": "\nTANGERANG, KOMPAS.com - Di tengah masih terjadinya penularan Covid-19, Badan Intelijen Negara (BIN) menggelar  rapid test untuk 500 warga Cibodas, Kota Tangerang. Ketua Pelaksana Harian Sub Gugus Tugas Percepatan Penanganan Covid-19 BIN Brigjen TNI Irwan Mulyana mengatakan, BIN menurunkan 40 tenaga medis dan 2 unit Covid-19 Mobile Laboratory, diharapkan dapat mempercepat proses pemeriksaan rapid test. \"Jadi kalau ada hasil rapid test yang reaktif akan kita lanjutkan dengan tindakan  swab test dengan metode  PCR,\" kata dia dalam keterangan tertulis diterima Kompas.com, Rabu (15/7/2020). Baca juga:  Selain rapid test, digelar juga swab test dengan 300 sampel pada kegiatan yang dilakukan di halaman Masjid Ar Royyan, Cibodas, Kota Tangerang tersebut. Irwan berharap hasil rapid test dan swab test metode PCR di Cibodas berakhir dengan hasil yang baik dan tidak ada yang reaktif atau positif. \"Mudah-mudahan di Kecamatan Cibodas aman semua,\" kata dia. Wali Kota Tangerang Arief Wismansyah berharap kegiatan rapid test massal yang diselenggarakan BIN tersebut bisa memberikan data tracing yang lebih masif lagi untuk Kota Tangerang.Dia juga menggunakan kegiatan tes swab yang diselenggarakan oleh BIN tersebut untuk memeriksa kembali pasien aktif di Kota Tangerang untuk dites kembali. \"Untuk itu saya sudah instruksikan Dinas Kesehatan agar pasien-pasien aktif segera diperiksaan PCR-nya lagi di sini supaya kita bisa tahu progres kesehatannya,\" kata Arief. Seperti diketahui data terbaru kasus Covid-19 di Kota Tangerang kini mencapai 536 kasus dengan pasien meninggal 33 orang, 431 pasien dinyatakan sembuh dan kasus aktif dalam perawatan sebanyak 72 pasien. ",
+      "judul": "Penularan Covid-19 Masih Terjadi, 500 Warga Cibodas Kota Tangerang Lakukan Rapid Test",
+      "sumber": "Kompas",
+      "tanggal": "Kompas.com - 16/07/2020, 07:12 WIB"
+    },
+    "id": 35
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1594866387,
+        "id": 43001,
+        "lead_time": 63.914,
+        "result": [
+          {
+            "from_name": "clickbait",
+            "id": "86i3l-S4N7",
+            "to_name": "judul",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Clickbait"
+              ]
+            }
+          },
+          {
+            "from_name": "misleading",
+            "id": "2VFB9TRMyK",
+            "to_name": "isi",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Not Misleading"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "isi": "\nKOMPAS.com - Wali Kota  Surabaya Tri Rismaharini tak kuasa menahan tangis dalam memberikan sambutan saat prosesi pemakaman Kepala Dinas Pengendalian Penduduk, Pemberdayaan Perempuan, dan Perlindungan Anak (DP5A)  Chandra Oratmangun.\nChandra meninggal pada Senin (13/7/2020). Kepala DP5A itu sempat dinyatakan positif Covid-19.\nNamun, sebelum meninggal Chandra dinyatakan negatif Covid-19 berdasarkan hasil dua tes swab lanjutan.\n Risma mengenakan pakaian serba hitam saat menghadiri pemakaman yang dilakukan Tempat Pemakaman Umum Keputih, Surabaya, Rabu (15/7/2020).\nSeperti dikutip dari Surya.co.id, Risma terlihat tak mampu mengendalikan emosinya. Ia terlihat lemas.\nBaca juga: \nSaat memberikan sambutan, Risma tak kuasa menahan tangis. Lututnya goyah. Risma harus memegang kursi untuk bisa berdiri tegak.\n\"Terima kasih sudah memberikan semuanya,\" kata Risma sambil sesegukan.\n \nSuara Risma terdengar parau. Tangis kesedihan itu tak terbendung saat melepas kepala dinas yang dinilai tangguh dan cekatan tersebut.\nBagi Risma, Chandra Oratmangun memiliki banyak jasa dalam melayani masyarakat Surabaya. Chandra sudah belasan tahun mengabdi di lingkungan Pemkot Surabaya.\nBeberapa pejabat Pemkot Surabaya terlihat menahan Risma agar tetap kuat berdiri.\n\"Terima kasih Bu Chandra, terima kasih Bu Chandra,\" kata Risma dengan suara parau.\n ",
+      "judul": "Tangis Risma di Pemakaman Kepala DP5A Surabaya: Terima Kasih Sudah Memberikan Semuanya",
+      "sumber": "Kompas",
+      "tanggal": "Kompas.com - 16/07/2020, 06:45 WIB"
+    },
+    "id": 43
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1594867009,
+        "id": 46001,
+        "lead_time": 93.303,
+        "result": [
+          {
+            "from_name": "clickbait",
+            "id": "LTk6Ak1wJv",
+            "to_name": "judul",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Neutral"
+              ]
+            }
+          },
+          {
+            "from_name": "misleading",
+            "id": "g_P-DaFLEr",
+            "to_name": "isi",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Not Misleading"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "isi": "\nKOMPAS.com - Dosen Universitas Cenderawasih (Uncen)  Marinus Yaung mengklarifikasi video dan foto tangkapan seorang perempuan tanpa busana yang muncul saat ia menjadi pembicara di  webinar.\nHari itu, Senin (13/7/2020), Marinus Yaung menjadi pembicara di webinar dengan tema \"Mengapa Isu  Papua Diinternasionalisasi\"\nMarinus menyatakan bahwa perempuan yang muncul sekilas saat ia webinar adalah anak perempuannya yang masih duduk di kelas empat SD.\nBaca juga: \nSementara dalam narasi yang beredar, video dan foto perempuan yang muncul di belakang Marinus disebut seorang pekerja seks komersil.\nSaat dihubungi Kompas.com, Rabu (15/7/2020) Marinus Yaung mengaku telah membuat klarifikasi di media sosialnya terkait video dan foto tersebut.\n\"Ini anak perempuan saya, dan dia baru habis mandi sore di rumah kontrakan saya di Jakarta Timur, dan mau ganti pakaian jadi namanya juga anak-anak, langsung nyosor saja ketika saya lagi ikut webinar siaran langsung dari rumah,\" tulis Marinus di akun Facebooknya.\nBaca juga: \nMarinus meyayangkan sang anak yang tidak tahu apa-apa ikut menjadi korban penyebaran informasi yang tidak benar.\nIa menyebut informasi yang disebarkan pihak tak bertanggung jawab itu dianggap sebagai pembunuhan karakter.\n\"Pembangunan narasi yang sangat buruk sekali, ini pembunuhan karakter, kalau hanya menyerang saya tidak apa-apa, tapi ini juga menyerang anak saya,\" kata Marinus saat dihubungi.\nBaca juga: \nBawa kasus tersebut ke ranah hukum\nMarinus mengatakan video dan gambar tangkapan layar itu tersebar hingga ke luar negeri. ",
+      "judul": "Anak Perempuannya yang Muncul Saat Webinar Disebut PSK, Dosen Uncen: Ini Pembunuhan Karakter",
+      "sumber": "Kompas",
+      "tanggal": "Kompas.com - 16/07/2020, 06:26 WIB"
+    },
+    "id": 46
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1594859745,
+        "id": 1,
+        "lead_time": 26.615,
+        "result": [
+          {
+            "from_name": "clickbait",
+            "id": "wJZKCHf1yg",
+            "to_name": "judul",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Neutral"
+              ]
+            }
+          },
+          {
+            "from_name": "misleading",
+            "id": "ffdHrDbX6U",
+            "to_name": "isi",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Not Misleading"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "created_at": 1594859914,
+        "id": 2,
+        "lead_time": 187.767,
+        "result": [
+          {
+            "from_name": "clickbait",
+            "id": "G4g-qKsThi",
+            "to_name": "judul",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Neutral"
+              ]
+            }
+          },
+          {
+            "from_name": "misleading",
+            "id": "QFjrb9X6-a",
+            "to_name": "isi",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Not Misleading"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "isi": "\nJAKARTA -- Direktur Jenderal Kependudukan dan Pencatatan Sipil Kementerian Dalam Negeri (Dukcapil Kemendagri) Zudan Arif Fakrulloh, meminta masyarakat berperan aktif dalam pelaksanaan pencocokan dan penelitian (coklit) data pemilih Pilkada 2020. Komisi Pemilihan Umum (KPU) melaksanakan coklit serentak 15 Juli-13 Agustus 2020 dengan mendatangi langsung pemilih.  \"Kita berharap betul masyarakat berperan... \nLihat Artikel Asli\nBaca Selengkapnya di republika.id\n ';\n\t\t                      \n",
+      "judul": "Akurasi DPT Pilkada Harus Dijaga",
+      "sumber": "Republika",
+      "tanggal": "Kamis   16 Jul 2020  07:25 WIB\n"
+    },
+    "id": 0,
+    "predictions": []
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1594860750,
+        "id": 11001,
+        "lead_time": 16.668,
+        "result": [
+          {
+            "from_name": "clickbait",
+            "id": "Rg7ghwldc8",
+            "to_name": "judul",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Clickbait"
+              ]
+            }
+          },
+          {
+            "from_name": "misleading",
+            "id": "Xy0mN-xJrS",
+            "to_name": "isi",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Not Misleading"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "isi": "\nJakarta -  Tuntutan ringan 1 tahun penjara terhadap dua penyerang penyidik KPK, Novel Baswedan, bikin geger dan memantik kontroversi. Kini akhir dari perjalanan kasus penyiraman air keras terhadap Novel akan segera ditentukan lewat sidang vonis yang digelar hari ini.Dua penyerang Novel yakni Ronny Bugis dan Rahmat Kadir sebelumnya diyakini jaksa penuntut umum bersalah melakukan penganiayaan berat terhadap Novel. Keduanya juga diyakini bersalah melanggar Pasal 353 ayat 2 KUHP Jo Pasal 55 ayat (1) ke-1 KUHP.\"Menuntut supaya majelis hakim Pengadilan Jakarta Utara yang memeriksa dan mengadili perkara ini memutuskan, menyatakan terdakwa terbukti secara sah dan meyakinkan melakukan tindak pidana melakukan penganiyaan dan terencana lebih dahulu dengan mengakibatkan luka berat,\" ujar jaksa saat membacakan surat tuntutan di PN Jakarta Utara, Jalan Gajah Mada, Petojo Utara, Gambir, Jakarta Pusat, Kamis (11/6).\n\"Menjatuhkan pidana penjara terhadap terdakwa dengan hukuman pidana selama 1 tahun,\" imbuh jaksa.Ada sejumlah alasan mengapa jaksa penuntut umum menuntut dua penyerang Novel dengan hukuman 1 tahun penjara. Menurut jaksa, kedua terdakwa tidak berniat sedari awal melukai bagian wajah Novel.\"Bahwa dalam fakta persidangan, terdakwa tidak pernah menginginkan melakukan penganiayaan berat. Terdakwa hanya akan memberikan pelajaran kepada saksi Novel Baswedan dengan melakukan penyiraman cairan air keras ke Novel Baswedan ke badan. Namun mengenai kepala korban. Akibat perbuatan terdakwa, saksi Novel Baswedan mengakibatkan tidak berfungsi mata kiri sebelah hingga cacat permanen,\" ujar jaksa saat membacakan tuntutan.Selain itu, jaksa memberikan tuntutan ringan kepada terdakwa karena kedua orang tersebut mengakui perbuatannya. Mereka juga disebut telah menyampaikan permohonan maaf kepada Novel dan keluarga.\"Karena, pertama, yang bersangkutan mengakui terus terang di dalam persidangan, terus kedua yang bersangkutan meminta maaf dan menyesali perbuatannya dan dia secara di persidangan menyampaikan memohon maaf kepada keluarga Novel Baswedan dan meminta maaf institusi polisi, institusi Polri itu tercoreng,\" ujar jaksa Ahmad Patoni seusai sidang.\nselanjutnya\n            Selanjutnya \nHalaman\n1\n2\n3\n4\n5\nsidang vonis penyerang novel baswedan\nvonis penyerang novel baswedan\nnovel baswedan\nsidang penyerang novel baswedan\npenyerang novel baswedan\nkpk\nround-up\n",
+      "judul": "Geger Tuntutan Ringan Penyerang Novel Baswedan yang Segera Diputuskan",
+      "sumber": "Detik",
+      "tanggal": "Kamis, 16 Jul 2020 07:02 WIB"
+    },
+    "id": 11
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1594862174,
+        "id": 21001,
+        "lead_time": 8.52,
+        "result": [
+          {
+            "from_name": "clickbait",
+            "id": "qBTZrh1pAb",
+            "to_name": "judul",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Neutral"
+              ]
+            }
+          },
+          {
+            "from_name": "misleading",
+            "id": "zaD5rZ0TEU",
+            "to_name": "isi",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Not Misleading"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "created_at": 1594862209,
+        "id": 21002,
+        "lead_time": 177.136,
+        "result": [
+          {
+            "from_name": "clickbait",
+            "id": "X6IDLmjH7y",
+            "to_name": "judul",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Neutral"
+              ]
+            }
+          },
+          {
+            "from_name": "misleading",
+            "id": "heMF4Q7Q0e",
+            "to_name": "isi",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Not Misleading"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "isi": "\nLima - Presiden Peru Martin Vizcarra mengganti menteri kesehatan. Pencopotan itu merupakan yang ke dua selama masa pandemi virus Corona (COVID-19).Dilansir dari AFP, Kamis (16/7/2020), Vizcarra mencopot Victor Zamorra dengan Pilair Mazzetti. Penggantian itu dilakukan setelah Peru mendapat kecaman keras atas pengelolaan krisis kesehatan selama pandemi Corona.Diketahui, di Peru terdapat 333.000 orang terinfeksi, terbanyak ke dua di Amerika Latin. Para kritikus Zamora meyakini angka kematian karena Corona di Peru lebih dari 30.000\nMazzetti adalah ahli saraf terkenal dan menteri kesehatan di bawah mantan presiden Alejandro Toledo (2001-06) dan menteri dalam negeri di bawah Alan Garcia dalam masa jabatan kedua pemimpin terakhir dari 2006-11.Sebelumnya, Zamora mengambil alih jabatan pada 21 Maret dari Elizabeth Hinostroza. Seminggu setelah Peru memberlakukan karantina wilayah secara nasional untuk mencegah penyebaran virus.\n(aik/aik)\nlima\nperu\ncorona\nvirus corona\n",
+      "judul": "Presiden Peru Ganti Menteri Kesehatan, Kedua Kali Sejak Pandemi Corona",
+      "sumber": "Detik",
+      "tanggal": "Kamis, 16 Jul 2020 04:33 WIB"
+    },
+    "id": 21,
+    "predictions": []
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1594860441,
+        "id": 9001,
+        "lead_time": 16.926,
+        "result": [
+          {
+            "from_name": "clickbait",
+            "id": "UoEtvkQTBK",
+            "to_name": "judul",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Neutral"
+              ]
+            }
+          },
+          {
+            "from_name": "misleading",
+            "id": "y4hLO33ObE",
+            "to_name": "isi",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Not Misleading"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "isi": "\nREPUBLIKA.CO.ID,SERANG -- Dinas Perhubungan Kota Serang, Banten pada masa normal baru melakukan pembatasi jumlah penumpang angkutan perkotaan untuk mencegah terjadinya penularan Covid-19. \n\"Saat masa normal baru angkot di Kota Serang dilakukan sistem sosial distancing dengan pembatasan penumpang,\" kata Kepala Dishub Kota Serang, Maman Lutfi di Serang, Rabu (15/7).\nIa mengatakan, bahwa pembatasan jumlah tersebut dilakukan dengan cara menerapkan sistem sosial distancing atau mengatur jarak antar penumpang di dalam kendaraan itu sendiri. \"Kita mengatur jarak penumpang di dalam kendaraan pada saat new normal ini,\" kata dia.\nIa menjelaskan, dengan diberlakukanya peraturan itu, maka dari biasanya penumpang angkot yang mengangkut sebanyak 12 orang dibatasi menjadi sekitar 6 orang. \"Pembatas itu contohnya yang biasa mengangkut 12 penumpang, maka hanya dapat membawa 6 penumpang,\" kata dia.\nIa juga mengaku, bahwa pihaknya telah melakukan sosialisasi kepada sopir angkot dalam penerapan pembatasan penumpang serta mengeluarkan surat edaran (SE). \"Yang kita lakukan setelah sosialisasi melakukan pemantauan di lapangan melalui rekayasa lalu lintas setiap hari, mulai dari jalan nasional, provinsi dan Kota Serang,\" katanya.\nSelain itu, ia juga mengungkapkan, jika angkutan itu melanggar aturan yang sudah diterapkan, pihaknya akan memberikan sanksi sosial seperti memberi hukuman push up dan menyanyikan lagu kebangsaan.\n \nsumber : ANTARA \n",
+      "judul": "Dishub Kota Serang Batasi Penumpang Angkutan Perkotaan",
+      "sumber": "Republika",
+      "tanggal": "Kamis   16 Jul 2020  04:48 WIB\n"
+    },
+    "id": 9
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1594867060,
+        "id": 48001,
+        "lead_time": 37.469,
+        "result": [
+          {
+            "from_name": "clickbait",
+            "id": "cBrY0YbyQ3",
+            "to_name": "judul",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Clickbait"
+              ]
+            }
+          },
+          {
+            "from_name": "misleading",
+            "id": "JpbxE_ckfk",
+            "to_name": "isi",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Not Misleading"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "isi": "\nKOMPAS.com- Sebanyak 64 orang kepala sekolah menengah pertama (SMP) Negeri di Kabupaten  Indragiri Hulu (Inhu)  Riau mengundurkan diri.\nHal itu memicu keheranan banyak pihak, salah satunya Kepala Inspektorat Inhu Boyke Sitinjak.\n\"Saya baru mendengar bahwa di Indonesia ini ada seluruh kepala sekolah SMP se-kabupaten yang mengundurkan diri,\" kata Boyke heran.\nBaca juga: \nInspektorat selidiki dugaan pemerasan\nLihat Foto ilustrasi sekolah menengah pertama.(DRI)Terkait kejadian ini, pihak inspektorat akan segera memanggil para kepala sekolah untuk mengetahui penyebab pegunduran diri.\nMeski belum mendapatkan informasi lengkap, namun inspektorat memperoleh kabar mereka diperas oleh oknum tak bertanggung jawab.\n\"Di antaranya ada informasi bahwa mereka (kepala sekolah) dilakukan pemerasan oleh oknum dari penegak hukum. Ini merupakan informasi yang sangat berat, apakah ini benar-benar terjadi atau tidak, kami akan melakukan pemeriksaan lebih lanjut,\" kata Boyke.\nInspektorat berjanji akan menyelidiki dugaan itu.\n\"Ini merupakan tantangan berat bagi Inspektorat bagaimana membangun daerah lebih baik dan lebih bersih,\" kata Boyke.\nBaca juga: \n ",
+      "judul": "\"Saya Baru Dengar di Indonesia, Ada Seluruh Kepala SMP se-Kabupaten Mengundurkan Diri\"",
+      "sumber": "Kompas",
+      "tanggal": "Kompas.com - 16/07/2020, 06:12 WIB"
+    },
+    "id": 48
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1594864864,
+        "id": 36001,
+        "lead_time": 17.088,
+        "result": [
+          {
+            "from_name": "clickbait",
+            "id": "_EIDakQjl-",
+            "to_name": "judul",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Clickbait"
+              ]
+            }
+          },
+          {
+            "from_name": "misleading",
+            "id": "WdR-UGpHP5",
+            "to_name": "isi",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Not Misleading"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "created_at": 1594864975,
+        "id": 36002,
+        "lead_time": 4.629,
+        "result": [
+          {
+            "from_name": "clickbait",
+            "id": "HbCP7TV6OT",
+            "to_name": "judul",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Clickbait"
+              ]
+            }
+          },
+          {
+            "from_name": "misleading",
+            "id": "zRyPuYCgNN",
+            "to_name": "isi",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Not Misleading"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "created_at": 1594865069,
+        "id": 36003,
+        "lead_time": 571.134,
+        "result": [
+          {
+            "from_name": "clickbait",
+            "id": "SD_IJT0WeJ",
+            "to_name": "judul",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Clickbait"
+              ]
+            }
+          },
+          {
+            "from_name": "misleading",
+            "id": "DNuFEHNgMA",
+            "to_name": "isi",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Misleading"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "created_at": 1594865561,
+        "id": 36004,
+        "lead_time": 586.005,
+        "result": [
+          {
+            "from_name": "clickbait",
+            "id": "qZaoJ9C1MP",
+            "to_name": "judul",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Clickbait"
+              ]
+            }
+          },
+          {
+            "from_name": "misleading",
+            "id": "dTK4MwP7qL",
+            "to_name": "isi",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Not Misleading"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "isi": "\nPEKANBARU, KOMPAS.com - Sebanyak 64 orang kepala sekolah menengah pertama (SMP) di Kabupaten Indragiri Hulu (Inhu),  Riau, mengundurkan diri dari jabatannya.\nAlasan mereka mengundurkan diri terkait pengelolaan dana bantuan operasional sekolah (BOS).\nHal itu disampaikan Pelaksana tugas (Plt) Dinas Pendidikan Inhu, Ibrahim Alimin saat dikonfirmasi Kompas.com melalui sambungan telepon, Rabu (15/7/2020).\n\"Kemarin, Selasa (14/7/2020), datang enam orang perwakilan kepala sekolah SMP datang ke Dinas Pendidikan. Mereka membawa map banyak yang berisi surat pengunduran diri,\" sebut Ibrahim.\nPada saat audiensi, lanjut dia, para kepala SMP itu mengaku mengundurkan diri karena tidak nyaman dan terganggu dalam mengelola dana BOS.\nBaca juga: \nDalam pengelolaan  dana BOS tersebut, kepala sekolah mengaku diganggu sejumlah oknum.\n\"Mereka mengelola dana BOS kan tidak banyak. Ada yang dapat Rp 56 juta, Rp 53 juta, ada yang Rp 200 juta per tahun. Nah, itu diganggu, ada LSM (lembaga swadaya masyarakat) dan ada oknum-oknum lainnya. Sehingga mereka tidak nyaman dan meminta jadi guru biasa. Karena mereka merasa bahwa apa yang mereka lakukan itu (kelola dana BOS) sudah benar dan tidak ada niat macam-macam, tapi dianggap tidak benar,\" sebut Ibrahim.\nSelain itu, sambung dia, para kepala sekolah SMP tersebut juga takut menggunakan dana BOS untuk keperluan sekolah saat pendami Covid-19 ini.\n\"Dalam pengelolaan dana BOS sekarang kan dibolehkan untuk membeli alat pelindung diri (APD), disinfektan segala macam kan boleh. Nah, untuk (beli) itu mereka takut. Jadi sejak beberapa tahun belakangan ini kata mereka sering diganggu-ganggu. Gak tahu saya siapa yang ganggu, tapi pihak eksternal gitu,\" kata Ibrahim.\nMeski demikian, Ibrahim mengaku belum begitu mendalami alasan pengunduran diri 64 kepala sekolah SMP tersebut. ",
+      "judul": "64 Kepala SMP di Riau Mundur, Disdik: Mereka Sudah Benar tapi Dianggap Tak Benar",
+      "sumber": "Kompas",
+      "tanggal": "Kompas.com - 16/07/2020, 07:09 WIB"
+    },
+    "id": 36,
+    "predictions": []
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1594863142,
+        "id": 24001,
+        "lead_time": 7.679,
+        "result": [
+          {
+            "from_name": "clickbait",
+            "id": "yqBiogEstW",
+            "to_name": "judul",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Neutral"
+              ]
+            }
+          },
+          {
+            "from_name": "misleading",
+            "id": "yVv1qXioKr",
+            "to_name": "isi",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Not Misleading"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "created_at": 1594863258,
+        "id": 24002,
+        "lead_time": 509.241,
+        "result": [
+          {
+            "from_name": "clickbait",
+            "id": "jZzKUmfyLd",
+            "to_name": "judul",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Neutral"
+              ]
+            }
+          },
+          {
+            "from_name": "misleading",
+            "id": "tCO-H4eSbP",
+            "to_name": "isi",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Not Misleading"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "created_at": 1594864846,
+        "id": 24003,
+        "lead_time": 1874.505,
+        "result": [
+          {
+            "from_name": "clickbait",
+            "id": "4CCafpvV5K",
+            "to_name": "judul",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Neutral"
+              ]
+            }
+          },
+          {
+            "from_name": "misleading",
+            "id": "5e5ggaDT_X",
+            "to_name": "isi",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Not Misleading"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "isi": "\nSurabaya - Kasus positif COVID-19 di Jawa Timur bertambah 284 sehingga totalnya menjadi 17.370 kasus. Sementara tambahan pasien yang sembuh ada 444 orang.\"Hari ini terkonfirmasi ada tambahan 284 kasus positif COVID-19. Kabar bahagia, ada tambahan 444 pasien Corona yang sembuh di Jatim,\" kata Gubernur Jatim Khofifah Indar Parawansa di Gedung Negara Grahadi, Surabaya, Rabu (15/7/2020).Tambahan 284 kasus positif Corona ini berasal dari sejumlah daerah di Jatim. Dari Kota Mojokerto 3 kasus, Kabupaten Pasuruan 4 kasus, Ponorogo 15 kasus, Kota Batu 5 kasus, Nganjuk 1 kasus, Kabupaten Kediri 6 kasus, Bangkalan 2 kasus, Tuban 8 kasus, Kabupaten Malang 5 kasus, Pamekasan 3 kasus, Kota Kediri 6 kasus, Gresik 26 kasus, Kota Probolinggo 12 kasus, Kota Pasuruan 11 kasus, Jombang 8 kasus.\nKemudian, Sidoarjo 13 kasus, Kabupaten Mojokerto 49 kasus, Kabupaten Blitar 4 kasus, Sumenep 8 kasus, Kota Malang 13 kasus, Jember 5 kasus, Bojonegoro 16 kasus dan Kota Surabaya 61 kasus.Tambahan 444 pasien sembuh juga berasal dari sejumlah daerah di Jatim. Dari Kota Mojokerto 53 pasien, Kabupaten Pasuruan 32 pasien, Ponorogo 11 pasien, Magetan 1 pasien, Kabupaten Kediri 6 pasien, Banyuwangi 2 pasien, Bangkalan 7 pasien, Ngawi 3 pasien, Lamongan 22 pasien, Kabupaten Malang 4 pasien, Pamekasan 4 pasien, Kota Kediri 3 pasien, Trenggalek 2 pasien, Gresik 33 pasien, Kota Pasuruan 2 pasien, Jombang 7 pasien, Sidoarjo 107 pasien, Kabupaten Blitar 1 pasien, Kota Malang 3 pasien, Bojonegoro 6 pasien dan Kota Surabaya 135 pasien.\"Total pasien yang sembuh di Jatim ada 7.923 atau sekitar 45,61 persen angka kesembuhan,\" jelas Khofifah.Sedangkan pasien positif Corona yang meninggal dunia, ada tambahan 26 orang. Dari Mojokerto 1 pasien, Kabupaten Pasuruan 2 pasien, Tuban 1 pasien, Pamekasan 1 pasien, Gresik 2 pasien, Kota Probolinggo 1 pasien, Jombang 1 pasien, Sidoarjo 5 pasien, Jember 1 pasien dan Kota Surabaya 11 pasien. Total ada 1.315 pasien positif COVID-19 di Jatim yang meninggal dunia.\n(sun/bdh)\nbirojatim\ncorona\ncorona di jatim\ncovid-19\nvirus corona\n",
+      "judul": "Kasus Positif COVID-19 Baru di Jatim Ada 284, yang Sembuh Tambah 444 Orang",
+      "sumber": "Detik",
+      "tanggal": "Kamis, 16 Jul 2020 01:08 WIB"
+    },
+    "id": 24,
+    "predictions": []
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1594865807,
+        "id": 40001,
+        "lead_time": 13.374,
+        "result": [
+          {
+            "from_name": "clickbait",
+            "id": "Y5i90R16BC",
+            "to_name": "judul",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Neutral"
+              ]
+            }
+          },
+          {
+            "from_name": "misleading",
+            "id": "3RdVmwnPar",
+            "to_name": "isi",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Not Misleading"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "isi": "\nJAKARTA, KOMPAS.com - Sejumlah pemilik warung di sekitar tempat penemuan tewasnya editor  Metro TV Yodi Prabowo (26) di Tol JORR Pesanggarahan Jalan Ulujami Raya, Ulujami, Pesanggrahan, Jakarta Selatan mengaku tak pernah melihat Yodi mampir ke warung. Devi (45), yang warungnya berada di seberang lokasi penemuan mayat Yodi, mengaku tak pernah melihat korban sebelum terjadinya peristiwa pembunuhan.  Devi mengaku, warungnya jarang dikunjungi pembeli seminggu belakangan ini.“Saya enggak pernah lihat orang itu (Yodi). Di warung saya jarang nongkrong. Di sini paling suami istri makan, Gojek ngopi-ngopi dan orang dari pasar,” ujar Devi ditemui Kompas.com, Rabu (15/7/2020) malam. Baca juga:  Lokasi warung milik Devi tepat berada di seberang lokasi penemuan mayat Yodi. Warungnya juga berada di sebelah tempat penemuan motor milik Yodi. “Kalau anak muda jarang yang nongkrong,” tambahnya. Ia pun mengaku tak pernah melihat orang yang beraktivitas baik di siang maupun malam hari di tempat penemuan mayat Yodi. Devi menyebutkan, warungnya setiap hari buka mulai pukul 10.00 WIB dan tutup pada pukul 22.00 WIB. Baca juga: Polisi Telah Periksa 27 Saksi Terkait Kematian Editor Metro TV Pada Sabtu (11/7/20202),  polisi menurunkan anjing pelacak dalam olah TKP.  Polisi menemukan indikasi kalau pelaku sempat singgah di salah satu warung tidak jauh dari ditemukannya korban, tepatnya di pinggir Danau Cavalio.  Pemilik Warung Pendopo Bu Mimi di pinggir Danau Cavalio, Sulasmi (40) mengatakan, ia juga sana sekali tak pernah melihat Yodi.  ",
+      "judul": "Sejumlah Pemilik Warung di Sekitar TKP Mengaku Tak Pernah Lihat Editor Metro TV Yodi Prabowo",
+      "sumber": "Kompas",
+      "tanggal": "Kompas.com - 16/07/2020, 06:55 WIB"
+    },
+    "id": 40
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1594862021,
+        "id": 20001,
+        "lead_time": 30.485,
+        "result": [
+          {
+            "from_name": "clickbait",
+            "id": "0SJSFaPQLw",
+            "to_name": "judul",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Clickbait"
+              ]
+            }
+          },
+          {
+            "from_name": "misleading",
+            "id": "xRugf6fNnU",
+            "to_name": "isi",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Not Misleading"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "created_at": 1594862031,
+        "id": 20002,
+        "lead_time": 45.885,
+        "result": [
+          {
+            "from_name": "clickbait",
+            "id": "gDp3-S2g_B",
+            "to_name": "judul",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Clickbait"
+              ]
+            }
+          },
+          {
+            "from_name": "misleading",
+            "id": "v_sJOhMYOQ",
+            "to_name": "isi",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Not Misleading"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "created_at": 1594862038,
+        "id": 20003,
+        "lead_time": 16.92,
+        "result": [
+          {
+            "from_name": "clickbait",
+            "id": "S8_dtH3Jnq",
+            "to_name": "judul",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Clickbait"
+              ]
+            }
+          },
+          {
+            "from_name": "misleading",
+            "id": "-P1-8Xx1IQ",
+            "to_name": "isi",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Not Misleading"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "isi": "\nJakarta -  Ada tangan fotografer, J, bermain di geliat kasus prostitusi artis Hana Hanifah. Persembunyian sosok muncikari itu masih misteri.Peristiwa ini berawal saat artis Hana Hanifah yang digerebek di sebuah hotel di Medan, Sumatera Utara (Sumut) pada Minggu 12 Juli 2020 malam hari.Setelah menjalani pemeriksaan intensif, Hana Hanifah dipulangkan ke Jakarta. Status Hana Hanifah hanya sebagai saksi.\nPolisi kemudian menetapkan dua tersangka dalam kasus ini. Tersangka itu berinisial R dan J. Keduanya ditetapkan sebagai tersangka kasus dugaan muncikari artis Hana Hanifah.Kasus prostitusi artis ini terus diusut. Hubungan Hana Hanifah dengan muncikari R dan J kemudian didalami polisi.Kapolrestabes Medan Kombes Riko Sunarko mengungkap peran masing-masing tersangka.Menurut Riko, tersangka J kerap bertemu dengan Hana di sebuah kafe di Senayan, Jakarta.\"Jadi si H ini dia nongkrong-nya di kafe itu dengan temen-temen-nya. Si J ini yang koordinir yang kita duga dia muncikarinya,\" ungkap Riko kepada wartawan di kantornya, Medan, Selasa (14/7/2020).Lalu, Riko mengatakan J menawarkan kencan ke Hana Hanifa. Setelah itu, J menawarkan ke pengusaha berinisial A.\"Dia (J) inilah yang aktif menawarkan itu, mau nggak, mau nggak, mau nggak gitu. Baru si J menawarkan ke sini (ke A),\" ujarnya.\"Iya (J menawarkan ke A),\" imbuhnya.Riko menyebut peran J tergolong tidak sembarangan. Sebab, J merupakan orang yang mengirim uang kepada Hana Hanifah.\"Kemudian terhadap dari keterangan Saudari H (Hana) dia menerima transferan Rp 20 juta dari saudara J yang ada di Jakarta. Tapi, karena dirinya sebagai objek yang diperdagangkan, sesuai UU TPPO Nomor 21/2007, untuk sementara kita jadikan saksi,\" terang Riko.\nselanjutnya\n            Selanjutnya \nHalaman\n1\n2\nround-up\nhana hanifah\nhana hanifah artis ftv\nhana hanifah dibayar 20 juta\nhana hanifah ditangkap prostitusi\nbiromedan\n",
+      "judul": "Juru Foto Muncikari Hana Hanifah yang Masih di Antah Berantah",
+      "sumber": "Detik",
+      "tanggal": "Kamis, 16 Jul 2020 05:00 WIB"
+    },
+    "id": 20,
+    "predictions": []
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1594866709,
+        "id": 44001,
+        "lead_time": 11.591,
+        "result": [
+          {
+            "from_name": "clickbait",
+            "id": "NSRt3Nq6Fp",
+            "to_name": "judul",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Neutral"
+              ]
+            }
+          },
+          {
+            "from_name": "misleading",
+            "id": "aIqVoSrdsX",
+            "to_name": "isi",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Not Misleading"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "isi": "\nJAKARTA, KOMPAS.com - Jumlah pasien positif virus corona atau  Covid-19 di Indonesia terus bertambah.\nJuru Bicara Pemerintah untuk Penanganan Virus Corona Achmad Yurianto mengatakan, berdasarkan data yang masuk hingga Rabu (15/7/2020) pukul 12.00 WIB tercatat ada 1.522 kasus baru Covid-19 dalam 24 jam terakhir.\nPenambahan itu menyebabkan kasus Covid-19 di Indonesia mencapai 80.094, terhitung sejak kasus pertama diumumkan  Presiden Joko Widodo pada 2 Maret 2020 lalu.\n\"Kami mendapatkan kasus konfirmasi positif Covid-19, tambahannya adalah 1.522 orang. Sehingga, totalnya kini 80.094 orang,\" kata Yurianto.\nBaca juga: \nJumlah 1.522 kasus baru itu didapat setelah dilakukan pemeriksaan 24.871 spesimen terhadap 15.491 orang dalam sehari.\nDengan catatan, satu orang bisa menjalani pemeriksaan spesimen lebih dari sekali.\nAdapun total sudah ada pemeriksaan 1.122.339 spesimen dari 657.655 orang yang diperiksa.\nKasus baru pasien positif Covid-19 tersebar di 28 provinsi.\nDari data yang dipaparkan Yuri tercatat lima provinsi dengan penambahan kasus baru tertinggi, yakni Jawa Tengah (261 kasus baru), DKI Jakarta (260 kasus baru), Jawa Timur (165 kasus baru), Sulawesi Selatan (158 kasus baru) dan Kalimantan Selatan (109 kasus baru).\nSementara itu, penularan Covid-19 secara keseluruhan hingga saat ini terjadi di 463 kabupaten/kota yang berada di 34 provinsi.\nBaca juga: \nSelain itu, Yuri menyampaikan ada enam provinsi yang tidak terdapat kasus baru Covid-19 dalam 24 jam terakhir.\nKeenam provinsi itu yakni Kalimantan Barat, Kalimantan Tengah, Kalimantan Utara, Riau, Papua Barat, NTT.\nArahan Presiden\nAnggota Tim Komunikasi  Gugus Tugas Percepatan Penanganan Covid-19 Reisa Broto Asmoro mengatakan, saat ini penanganan Covid-19 diarahkan untuk memasifkan 3T.\nAdapun, 3T yang dimaksud adalah testing (tes spesimen), tracing (penelusuran), dan treatment (perawatan).\nBaca juga: Penanganan Covid-19, Gugus Tugas: Arahan Presiden Konsentrasi Masifkan 3T\nIa mengatakan, 3T merupakan arahan Presiden Joko Widodo (Jokowi) yang pelaksanaannya harus dimasifkan dalam penanganan Covid-19 di Tanah Air.\nTerutama, sejak pemutakhiran panduan penanganan yang tercantum dalam Peraturan Menteri Kesehatan Nomor HK.01.07/Menkes/413/2020 tentang Pedoman, Pencegahan, dan Pengendalian Covid-19 yang ditandatangani pada 13 Juli 2020. ",
+      "judul": "Positif Covid-19 di Indonesia Tembus 80.000 Kasus dan Arahan Presiden",
+      "sumber": "Kompas",
+      "tanggal": "Kompas.com - 16/07/2020, 06:31 WIB"
+    },
+    "id": 44
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1594859941,
+        "id": 2001,
+        "lead_time": 25.889,
+        "result": [
+          {
+            "from_name": "clickbait",
+            "id": "D8723h0uw-",
+            "to_name": "judul",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Neutral"
+              ]
+            }
+          },
+          {
+            "from_name": "misleading",
+            "id": "dIVQFdJex4",
+            "to_name": "isi",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Not Misleading"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "created_at": 1594859993,
+        "id": 2002,
+        "lead_time": 101.31,
+        "result": [
+          {
+            "from_name": "clickbait",
+            "id": "jnWAs8-m57",
+            "to_name": "judul",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Neutral"
+              ]
+            }
+          },
+          {
+            "from_name": "misleading",
+            "id": "hpmzxdQ4qs",
+            "to_name": "isi",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Not Misleading"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "isi": "\nOLEH INAS WIDYANURATIKAH, ZAHROTUL OKTAVIANI Sepanjang dua bulan belakangan, terungkap sejumlah kasus pencabulan dan pelecehan seksual terhadap ratusan anak-anak di Indonesia. Pada pertengahan Juni lalu, Polresta Depok meringkus SPM (42 tahun), mantan pembina kegiatan misdinar di Gereja Paroki Santo Herkulanus di Depok.  Kejahatan yang bersangkutan terkuak dari laporan salah satu korban... \nLihat Artikel Asli\nBaca Selengkapnya di republika.id\n ';\n\t\t                      \n",
+      "judul": "Ancaman Predator Seksual Ketika Pandemi",
+      "sumber": "Republika",
+      "tanggal": "Kamis   16 Jul 2020  06:50 WIB\n"
+    },
+    "id": 2,
+    "predictions": []
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1594861082,
+        "id": 13001,
+        "lead_time": 79.832,
+        "result": [
+          {
+            "from_name": "clickbait",
+            "id": "B5WbvQ9c9u",
+            "to_name": "judul",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Neutral"
+              ]
+            }
+          },
+          {
+            "from_name": "misleading",
+            "id": "-BooqgxSzB",
+            "to_name": "isi",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Not Misleading"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "isi": "\nJakarta - Kepala Badan Nasional Penanggulangan Terorisme (BNPT) Komjen Pol Boy Rafli Amar berkeyakinan, para ulama moderat dan organisasi kemasyarakatan (ormas) Islam punya peran penting dalam pencegahan penyebaran paham radikal di Masyarakat. Karena itu sejak memimpin BNPT Mei lalu, dia terus berkeliling menemui pimpinan orman-ormas keagamaan dan ulama terkemuka yang dikenal moderat.Khusus kepada NU dan Muhammadiyah Boy mengaku telah meminta para dai muda mereka yang bisa diterima dengan baik oleh generasi milenial untuk diajak terlibat aktif menyebarkan dakwah yang damai, serta mencegah ujaran kebencian dan kekerasan.\"Kita tidak ingin generasi muda menjadi korban propaganda kelompok penganut paham kekerasan,\" kata Boy Rafli saat bertandang ke redaksi detik.com, Rabu (15/7/2020). \nIa mencontohkan kasus Abdurrahman yang secara membabi buta menyerang anggota Polsek Daha Selatan di Kalimantan Selatan dengan samurai. Anak muda itu bertindak seolah tengah membela dan memperjuangkan nilai-nilai agama, padahal sama sekali tidak.Lulusan Akpol 1988 itu merujuk Miftah Maulana Habiburrahman yang biasa disapa Gus Miftah sebagai figur dai muda panutan dalam berdakwah. Pengasuh pondok Ora Aji Jogjakarta itu selain digemari kalangan milenial karena materi dakwahnya yang komunikatif, juga selalu menyelipkan pesan-pesan nasionalisme.\"Gus Miftah itu contoh dai muda yang punya komitmen kebangsaan sangat baik, berdakwah tanpa melupakan nilai-nilai nasionalisme, nilai keindonesiaan,\" kata Boy.Gus Miftah, dia melanjutkan, suka menyelipkan jokes-jokes segar dalam dakwahnya sehingga jemaah mudah menerima pesan yang disampaikan. \"Ke depan format acara dakwah akan dikemas agar bisa lebih dekat dan diterima kalangan anak-anak muda atau generasi milenial,\" ujarnya. Sebelumnya, Boy yang pernah menjadi Kadiv Humas Mabes Polri 2016-2017 itu memaparkan sejumlah capaian BNPT yang hari ini memasuki usia 10 tahun (satu dekade). Selain dengan ormas-ormas Islam moderat, kata dia, BNPT juga menggandeng lebih dari 50 kelompok masyarakat sipil dalam menjalankan program-programnya.Dalam wawancara selama lebih dari setengah jam itu, Boy menjawab sejumlah isu lain seperti pengurus masjid di lingkungan BUMN yang pernah dikabarkan disusupi pihak-pihak berpaham kekerasan. Disinggung pula soal pembinaan para mantan napi terorisme dan wacana pemulangan mantan kombatan ISIS di Iran dan Suriah.Paparan Boy Rafli terkait itu semua dapat disimak dalam Blak-blakan bertajuk, \"Menggandeng Dai Muda untuk Melawan Radikalisme\" di detik.com, Kamis (16/7/2020). \n(jat/jat)\nkepala bnpt boy rafli amar\n",
+      "judul": "BNPT Gandeng Dai Muda Cegah Intoleransi dan Radikalisme",
+      "sumber": "Detik",
+      "tanggal": "Kamis, 16 Jul 2020 06:52 WIB"
+    },
+    "id": 13
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1594862236,
+        "id": 22001,
+        "lead_time": 26.164,
+        "result": [
+          {
+            "from_name": "clickbait",
+            "id": "NJCS6DZwXt",
+            "to_name": "judul",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Neutral"
+              ]
+            }
+          },
+          {
+            "from_name": "misleading",
+            "id": "tCoTTiawMb",
+            "to_name": "isi",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Not Misleading"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "created_at": 1594862311,
+        "id": 22002,
+        "lead_time": 136.293,
+        "result": [
+          {
+            "from_name": "clickbait",
+            "id": "sSTAVWzCdX",
+            "to_name": "judul",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Neutral"
+              ]
+            }
+          },
+          {
+            "from_name": "misleading",
+            "id": "C0Th4uyJbW",
+            "to_name": "isi",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Not Misleading"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "isi": "\nJakarta - Petugas Pemutakhiran Data Pemilih (PPDP) bertugas ke lapangan untuk mencocokkan dan meneliti data pemilih Pilkada Sulawesi Tengah (Sulteng) 2020. Mereka bertugas dengan menggunakan protokol kesehatan untuk menghindari virus Corona (COVID-19).\"Untuk mencegah penularan COVID-19 yang merupakan bencana non-alam, Kami telah mendistribusikan perlengkapan APD bagi PPDP yang akan dipergunakan untuk melakukan Pencocokan dan Penelitian (Coklit) mulai tanggal 15 Juli s/d 13 Agustus 2020,\" kata Ketua KPU Sulteng Tanwir Lamaming pada Rabu (15/7/2020) sore.Selain itu, ia juga memastikan bahwa masing-masing petugas harus melakukan rapid test sebelum turun melakukan pendataan. Mereka juga dilengkapi dengan masker, faceshield, dan sarung tangan plastik sekali pakai.\nTanwir juga menyampaikan bahwa dengan dilaksanakan Pilkada serentak 2020 dalam situasi pandemi COVID-19 ini, pihak KPU Sulteng akan tetap memperhatikan protokol kesehatan seperti physical distancing atau menjaga jarak fisik dan menggunakan masker.\"Semua kegiatan terkait Pilkada serentak 2020, baik itu di lapangan maupun di Kantor KPU di masing-masing daerah harus mengedepankan keselamatan, kesehatan, dengan mematuhi aturan yang sudah ditetapkan,\" ucapnya.Sebelumnya, jelang Pilkada 2020 masyarakat disarankan mengecek apakah dirinya sudah terdaftar menjadi pemilih atau belum. KPU mengarahkan pengecekan cukup klik di https://www.lindungihakpilihmu.kpu.go.id/.\"Sekarang ini daftar pemilih itu tidak lagi susah untuk di cek, karena hari ini tanggal 15 Juli itu telah di lounching yang namanya Klik Serentak. Di Klik Serentak, masyarakat sudah bisa mengakses datanya apakah terdaftar atau tidak,\" ungkap Ketua KPU Palu, Agusalim Wahid.\n(aik/aik)\npilkada\npilkada 2020\nbiromakassar\n",
+      "judul": "Gunakan APD, PPDP Lakukan Pendataan Pemilih di Pilkada Sulteng 2020",
+      "sumber": "Detik",
+      "tanggal": "Kamis, 16 Jul 2020 03:27 WIB"
+    },
+    "id": 22,
+    "predictions": []
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1594860060,
+        "id": 4001,
+        "lead_time": 18.321,
+        "result": [
+          {
+            "from_name": "clickbait",
+            "id": "wqXntdywoz",
+            "to_name": "judul",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Clickbait"
+              ]
+            }
+          },
+          {
+            "from_name": "misleading",
+            "id": "Me53WNP-W-",
+            "to_name": "isi",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Not Misleading"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "isi": "\nOLEH SAPTO ANDIKA CANDRA  Ada kejadian menarik dalam acara pembagian bantuan modal kerja dari Presiden Joko Widodo (Jokowi) kepada 61 pedagang kecil di Istana Kepresidenan Bogor, Rabu (15/7) sore. Seperti biasanya, presiden mengajak penerima bantuan berdialog. Salah satu pedagang yang diajak berdialog adalah Agus (58 tahun), seorang penjual kopi dan rokok... \nLihat Artikel Asli\nBaca Selengkapnya di republika.id\n ';\n\t\t                      \n",
+      "judul": "'Pak Jokowi, Tolong PKL, Pak!'",
+      "sumber": "Republika",
+      "tanggal": "Kamis   16 Jul 2020  06:43 WIB\n"
+    },
+    "id": 4
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1594863486,
+        "id": 29001,
+        "lead_time": 206.627,
+        "result": [
+          {
+            "from_name": "clickbait",
+            "id": "c6BFOH0KDL",
+            "to_name": "judul",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Neutral"
+              ]
+            }
+          },
+          {
+            "from_name": "misleading",
+            "id": "1zDYJANDUT",
+            "to_name": "isi",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Not Misleading"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "isi": "\nJakarta - Kepala Badan Nasional Penanggulangan Terorisme (BNPT) Komjen Pol Boy Rafli Amar berkeyakinan, para ulama moderat dan organisasi kemasyarakatan (ormas) Islam punya peran penting dalam pencegahan penyebaran paham radikal di Masyarakat. Karena itu sejak memimpin BNPT Mei lalu, dia terus berkeliling menemui pimpinan orman-ormas keagamaan dan ulama terkemuka yang dikenal moderat.Khusus kepada NU dan Muhammadiyah Boy mengaku telah meminta para dai muda mereka yang bisa diterima dengan baik oleh generasi milenial untuk diajak terlibat aktif menyebarkan dakwah yang damai, serta mencegah ujaran kebencian dan kekerasan.\"Kita tidak ingin generasi muda menjadi korban propaganda kelompok penganut paham kekerasan,\" kata Boy Rafli saat bertandang ke redaksi detik.com, Rabu (15/7/2020). \nIa mencontohkan kasus Abdurrahman yang secara membabi buta menyerang anggota Polsek Daha Selatan di Kalimantan Selatan dengan samurai. Anak muda itu bertindak seolah tengah membela dan memperjuangkan nilai-nilai agama, padahal sama sekali tidak.Lulusan Akpol 1988 itu merujuk Miftah Maulana Habiburrahman yang biasa disapa Gus Miftah sebagai figur dai muda panutan dalam berdakwah. Pengasuh pondok Ora Aji Jogjakarta itu selain digemari kalangan milenial karena materi dakwahnya yang komunikatif, juga selalu menyelipkan pesan-pesan nasionalisme.\"Gus Miftah itu contoh dai muda yang punya komitmen kebangsaan sangat baik, berdakwah tanpa melupakan nilai-nilai nasionalisme, nilai keindonesiaan,\" kata Boy.Gus Miftah, dia melanjutkan, suka menyelipkan jokes-jokes segar dalam dakwahnya sehingga jemaah mudah menerima pesan yang disampaikan. \"Ke depan format acara dakwah akan dikemas agar bisa lebih dekat dan diterima kalangan anak-anak muda atau generasi milenial,\" ujarnya. Sebelumnya, Boy yang pernah menjadi Kadiv Humas Mabes Polri 2016-2017 itu memaparkan sejumlah capaian BNPT yang hari ini memasuki usia 10 tahun (satu dekade). Selain dengan ormas-ormas Islam moderat, kata dia, BNPT juga menggandeng lebih dari 50 kelompok masyarakat sipil dalam menjalankan program-programnya.Dalam wawancara selama lebih dari setengah jam itu, Boy menjawab sejumlah isu lain seperti pengurus masjid di lingkungan BUMN yang pernah dikabarkan disusupi pihak-pihak berpaham kekerasan. Disinggung pula soal pembinaan para mantan napi terorisme dan wacana pemulangan mantan kombatan ISIS di Iran dan Suriah.Paparan Boy Rafli terkait itu semua dapat disimak dalam Blak-blakan bertajuk, \"Menggandeng Dai Muda untuk Melawan Radikalisme\" di detik.com, Kamis (16/7/2020). \n(jat/jat)\nkepala bnpt boy rafli amar\n",
+      "judul": "BNPT Gandeng Dai Muda Cegah Intoleransi dan Radikalisme",
+      "sumber": "Detik",
+      "tanggal": "Kamis, 16 Jul 2020 06:52 WIB"
+    },
+    "id": 29
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1594861737,
+        "id": 18001,
+        "lead_time": 128.916,
+        "result": [
+          {
+            "from_name": "clickbait",
+            "id": "0RknzI5rLe",
+            "to_name": "judul",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Clickbait"
+              ]
+            }
+          },
+          {
+            "from_name": "misleading",
+            "id": "tYHXV3qk87",
+            "to_name": "isi",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Not Misleading"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "created_at": 1594861766,
+        "id": 18002,
+        "lead_time": 28.794,
+        "result": [
+          {
+            "from_name": "clickbait",
+            "id": "hOTj-bxrj3",
+            "to_name": "judul",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Clickbait"
+              ]
+            }
+          },
+          {
+            "from_name": "misleading",
+            "id": "2KUPM_RXFc",
+            "to_name": "isi",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Not Misleading"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "created_at": 1594861864,
+        "id": 18003,
+        "lead_time": 335.226,
+        "result": [
+          {
+            "from_name": "clickbait",
+            "id": "RfplDcWEdY",
+            "to_name": "judul",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Clickbait"
+              ]
+            }
+          },
+          {
+            "from_name": "misleading",
+            "id": "PPTl_s1ech",
+            "to_name": "isi",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Misleading"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "isi": "\nJakarta -  Asal muasal 'surat jalan' untuk buronan terpidana kasus hak tagih (cessie) Bank Bali, Joko Soegiarto Tjandra alias Djoko Tjandra, terungkap. 'Surat jalan'berkop Bareskrim Polri melalui Biro Koordinasi dan Pengawasan (Rokorwas) PPNS itu tengah diselidiki tim internal Bareskrim.Tentang 'surat jalan' Djoko Tjandra itu awalnya diungkap Masyarakat Anti-Korupsi Indonesia (MAKI). MAKI sudah menyerahkan 'surat jalan' itu ke Ombudsman RI dan Komisi III DPR untuk ditindaklanjuti. Namun MAKI tidak menyebutkan instansi mana yang mengeluarkan 'surat jalan' itu.\nBelakangan Indonesia Police Watch (IPW) membeberkan lebih detail soal 'surat jalan' untuk Djoko Tjandra itu.\"Dari data yang diperoleh IPW, Surat Jalan untuk Joko Chandra dikeluarkan Bareskrim Polri melalui Biro Koordinasi dan Pengawasan PPNS, dengan Nomor: SJ/82/VI/2020/Rokorwas, tertanggal 18 Juni 2020, yang ditandatangani Kepala Biro Koordinasi dan Pengawasan PPNS Bareskrim Polri Brigjen Prasetyo Utomo. Dalam surat jalan tersebut Joko Chandra disebutkan berangkat ke Pontianak Kalimantan Barat pada 19 Juni dan kembali pada 22 Juni 2020,\" kata Neta S Pane selaku Ketua Presidium IPW dalam keterangan persnya, Rabu (15/7/2020).Neta pun mempertanyakan urgensi Brigjen Prasetijo Utomo mengeluarkan 'surat jalan' itu. Dia mendesak agar Brigjen Prasetijo Utomo diperiksa Propam Polri.\"Yang menjadi pertanyaan IPW apakah mungkin sekelas jenderal bintang satu (Brigjen) dengan jabatan Kepala Biro Karokorwas PPNS Bareskrim Polri berani mengeluarkan Surat Jalan untuk seorang buronan kakap sekelas Joko Chandra? Apalagi biro tempatnya bertugas tidak punya urgensi untuk mengeluarkan Surat Jalan untuk seorang pengusaha dengan label yang disebut Bareskrim Polri sebagai konsultan. Lalu siapa yang memerintahkan Brigjen Prasetyo Utomo untuk memberikan Surat Jalan itu. Apakah ada sebuah persekongkolan jahat untuk melindungi Joko Chandra,\" kata Neta.Informasi terbaru seputar 'surat jalan' Djoko Tjandra yang kian santer itu sampai ke telinga Kabareskrim Polri Komjen Listyo Sigit Prabowo.Listyo turun tangan dan bergerak cepat membentuk tim untuk menelusuri hal itu. Dia lalu memerintahkan Divisi Propam Mabes Polri mengusut tuntas informasi 'surat jalan' Djoko Tjandra.\"Saya sudah meminta agar info terkait surat jalan tersebut agar didalami Divisi Propam Polri dan usut tuntas siapa pun yang terlibat,\" kata Listyo.\"Semenjak ada isu itu kan kita sudah bentuk tim untuk telusuri,\" sambung Listyo.\nselanjutnya\n            Selanjutnya \nHalaman\n1\n2\nmabes polri\ndjoko tjandra\ndjoko tjandra di indonesia\ndjoko tjandra buron\nbrigjen prasetijo utomo\nbrigjen prasetyo utomo\nround-up\n",
+      "judul": "Gempar Kabar Djoko Tjandra yang Tak Ada Habisnya",
+      "sumber": "Detik",
+      "tanggal": "Kamis, 16 Jul 2020 06:02 WIB"
+    },
+    "id": 18,
+    "predictions": []
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1594860070,
+        "id": 5001,
+        "lead_time": 9.685,
+        "result": [
+          {
+            "from_name": "clickbait",
+            "id": "Qlv0mDyBuF",
+            "to_name": "judul",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Neutral"
+              ]
+            }
+          },
+          {
+            "from_name": "misleading",
+            "id": "1P0T8IdnyX",
+            "to_name": "isi",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Not Misleading"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "isi": "\nJAKARTA – Menteri Koordinator bidang Politik, Hukum, dan Keamanan (Menko Polhukam) Mahfud MD menyebutkan, pihaknya akan tetap membentuk tim pemburu koruptor (TPK). Menurut dia, kritikan dari Komisi Pemberantasan Korupsi (KPK) wajar saja dalam berdemokrasi. Wakil Ketua KPK Nawawi Pomolango sebelumnya menyatakan, pemerintah harusnya belajar dari kegagalan tim tersebut. \"Saya akan... \nLihat Artikel Asli\nBaca Selengkapnya di republika.id\n ';\n\t\t                      \n",
+      "judul": "Mahfud Tetap akan Bentuk Tim Pemburu Koruptor",
+      "sumber": "Republika",
+      "tanggal": "Kamis   16 Jul 2020  06:31 WIB\n"
+    },
+    "id": 5
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1594863995,
+        "id": 34001,
+        "lead_time": 8.817,
+        "result": [
+          {
+            "from_name": "clickbait",
+            "id": "-eACxJU1Dp",
+            "to_name": "judul",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Clickbait"
+              ]
+            }
+          },
+          {
+            "from_name": "misleading",
+            "id": "Of3xAaie-r",
+            "to_name": "isi",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Not Misleading"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "created_at": 1594864497,
+        "id": 34002,
+        "lead_time": 543.575,
+        "result": [
+          {
+            "from_name": "clickbait",
+            "id": "NodohDPdka",
+            "to_name": "judul",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Neutral"
+              ]
+            }
+          },
+          {
+            "from_name": "misleading",
+            "id": "PD2jDIaZPO",
+            "to_name": "isi",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Not Misleading"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "isi": "\n  ENDE, KOMPAS.com - Kepala Dinas Pertanian dan Peternakan Kabupaten  Ende, NTT, Marianus Alexander mengatakan, 469 babi di daerah itu mati akibat diserang  flu babi Afrika atau african swine fever (ASF).  Marianus menuturkan, kecamatan Maukaro tercatat pada angka tertinggi berdasarkan hasil rekapitulasi petugas pusat kesehatan hewan.  Kemudian disusul kecamatan dalam kota yakni, Kecamatan Ndona, Kecamatan Detusoko, dan beberapa kecamatan lainnya.\nBaca juga:  \"Gejalanya memang sudah menciri ke virus ASF. Karena ciri-ciri itu seperti demam, tidak mau makan, ada cairan yang keluar dari dubur dan ada beberapa yang keluar dari mulut dan hidungnya,\" kata Marianus, kepada Kompas.com melalui sambungan telepon, Rabu malam. Marianus mengatakan, untuk memastikan penyebab kematian ratusan babi tersebut, pemerintah kini tengah menunggu hasil uji laboratorium sampel yang dikirim.  Selanjutnya, proses pencegahan akan diperketat, agar penyebaran virus tidak meluas. Marianus mengimbau, seluruh peternak untuk menerapkan sistem bio security atau tata cara sanitasi yang baik. \"Ada dua penyebab yang kami duga seperti colera dan virus ASF. Tetapi, kami masih tunggu hasil laboratoriumnya seperti apa. Kalau sesuai ciri-cirinya memang sudah menjurus ke ASF,\" ungkap Marianus.\n ",
+      "judul": "Ratusan Babi di Ende Mati Diserang Flu Babi Afrika",
+      "sumber": "Kompas",
+      "tanggal": "Kompas.com - 16/07/2020, 07:13 WIB"
+    },
+    "id": 34,
+    "predictions": []
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1594865820,
+        "id": 41001,
+        "lead_time": 11.918,
+        "result": [
+          {
+            "from_name": "clickbait",
+            "id": "9WTXM0Ee6V",
+            "to_name": "judul",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Neutral"
+              ]
+            }
+          },
+          {
+            "from_name": "misleading",
+            "id": "xeqiayaVLK",
+            "to_name": "isi",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Not Misleading"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "isi": "\nOleh dr. Puspa Ayu Lestari*\nBEBERAPA waktu lalu beredar video Presiden marah-marah, gara-gara anggaran kesehatan penanganan  pandemi Covid-19 yang sebesar Rp 75 triliun itu baru terserap 1,5 persen.\nIni membuat saya, dokter yang bertugas di Puskesmas sebuah kota kecil, ingin bercerita tentang manajemen kelembagaan yang terkait dengan keuangan negara.\nDalam manajemen kelembagaan atau organisasi yang bersumber pada keuangan negara, salah satu rapor kinerja yang diukur adalah persentase serapan anggaran.\nBaca juga: \nBagaimana penyerapan anggaran dijalankan secara tepat, cepat, dan tentu dapat dipertanggungjawabkan. Semua itu akan menunjukkan bahwa kinerja  birokrasi sehat, leadership bagus, para staf pun pintar-pintar.\nDi lingkup kecil UPTD (Unit Pelaksana Teknis Daerah), termasuk fasilitas kesehatan milik pemerintah yaitu Puskesmas dan RSUD, ada kewajiban membuat laporan keuangan setiap bulan.\nBaca juga: \nPelaporan ini menggunakan sistem jaring laba-laba yang mencakup 4 komponen penilaian, yaitu besaran serapan anggaran, realisasi kegiatan, target serapan anggaran, dan target kegiatan.\nDengan sistem pelaporan seperti itu, apabila ditemukan kegiatan dengan serapan anggaran yang tidak memenuhi target, evaluasi akan segera dilakukan.\nSistem seperti itu mungkin memang sudah dirancang dengan rapi dan matang, tapi pada praktiknya seringkali membuat kami kelabakan.\nSebab di lapangan, yang kerap terjadi adalah target-target kegiatan sudah tercapai dengan baik, namun justru target keuangan kedodoran di mana-mana. Pelayanan sudah berjalan dengan maksimal, tapi dana masih belum habis dibelanjakan. ",
+      "judul": "Ruwetnya Birokrasi Keuangan Negara untuk Layanan Kesehatan di Masa Pandemi",
+      "sumber": "Kompas",
+      "tanggal": "Kompas.com - 16/07/2020, 06:53 WIB"
+    },
+    "id": 41
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1594866208,
+        "id": 42001,
+        "lead_time": 387.801,
+        "result": [
+          {
+            "from_name": "clickbait",
+            "id": "Wy6el5ooN7",
+            "to_name": "judul",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Neutral"
+              ]
+            }
+          },
+          {
+            "from_name": "misleading",
+            "id": "Ybt1K_TDWt",
+            "to_name": "isi",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Not Misleading"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "isi": "\nPEKANBARU KOMPAS.com - Sebanyak 64 orang kepala sekolah menengah pertama (SMP) di Kabupaten  Indragiri Hulu (Inhu), Riau, mengundurkan diri. Pengunduran diri terkait persoalan pengelolaan dana bantuan operasional sekolah (BOS).\nSurat pengunduran diri itu sudah diterima oleh Kepala Dinas Pendidikan (Kadisdik) Inhu, Ibrahim Alimin pada Selasa (14/7/2020) siang.\nNamun, belum diputuskan apakah pengunduran diri kepala sekolah tersebut dikabulkan atau tidak.\n\"Surat pengunduran diri 64 kepala sekolah SMP ini akan saya teruskan ke bupati. Tapi, apakah disetujui atau tidak tergantung kepada bupati nantinya,\" kata Ibrahim kepada Kompas.com melalui sambungan telepon, Rabu (15/7/2020).\nBaca juga: \nMeski demikian, Ibrahim meminta para kepala sekolah tetap bekerja sebelum keluarnya surat bebas tugas.\nMenurutnya, saat ini masih banyak pekerjaan di sekolah yang mesti diselesaikan.\n\"Kita kan sudah masuk sekolah tahun ajaran baru 13 Juli 2020 kemarin, di masa pandemi Covid-19 ini. Jadi saya minta mereka tetap bekerja sebelum keluar surat pembebasan tugas, karena ada ijazah-ijazah dan rapor yang harus ditandatangani. Apalagi sekarang situasi tidak normal karena Covid-19, jadi kasihan anak-anak kita,\" kata Ibrahim.\nTerlepas dari semua itu, Ibrahim mengaku menyerahkan semua itu kepada para kepala sekolah.\nNamun, dia berharap untuk saat ini kepala sekolah tetap bekerja sampai surat keputusan dikeluarkan.\n\"Saya meminta kepada mereka tetap bekerja seperti biasa sampai ada keputusan Pak Bupati menerima atau tidak pengunduran diri mereka,\" pungkas Ibrahim. ",
+      "judul": "64 Kepala SMP Mundur karena Diperas Penegak Hukum, Disdik Lapor Bupati",
+      "sumber": "Kompas",
+      "tanggal": "Kompas.com - 16/07/2020, 06:46 WIB"
+    },
+    "id": 42
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1594859891,
+        "id": 1001,
+        "lead_time": 145.553,
+        "result": [
+          {
+            "from_name": "clickbait",
+            "id": "DaVpdERcng",
+            "to_name": "judul",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Neutral"
+              ]
+            }
+          },
+          {
+            "from_name": "misleading",
+            "id": "VAPr7x3vzj",
+            "to_name": "isi",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Not Misleading"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "isi": "\nJAKARTA -- Pengadilan Negeri Tindak Pidana Korupsi (Tipikor) Jakarta Pusat menggelar sidang lanjutan dugaan korupsi dan pencucian uang (TPPU) PT Asuransi Jiwasraya (Persero), Rabu (15/7). Ada sembilan saksi ajuan jaksa penuntut umum (JPU) yang dihadirkan. Dua di antaranya para pejabat menengah yang mengatur pengembangan investasi Jiwasraya.  Mantan Sekretaris Komite Investasi... \nLihat Artikel Asli\nBaca Selengkapnya di republika.id\n ';\n\t\t                      \n",
+      "judul": "Saksi Ungkap Penyimpangan Jiwasraya",
+      "sumber": "Republika",
+      "tanggal": "Kamis   16 Jul 2020  06:55 WIB\n"
+    },
+    "id": 1
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1594860423,
+        "id": 8001,
+        "lead_time": 251.659,
+        "result": [
+          {
+            "from_name": "clickbait",
+            "id": "KTcLWJmHw9",
+            "to_name": "judul",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Neutral"
+              ]
+            }
+          },
+          {
+            "from_name": "misleading",
+            "id": "bet6xz7LzN",
+            "to_name": "isi",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Not Misleading"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "created_at": 1594860434,
+        "id": 8002,
+        "lead_time": 12.186,
+        "result": [
+          {
+            "from_name": "clickbait",
+            "id": "hBuKeAvL--",
+            "to_name": "judul",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Neutral"
+              ]
+            }
+          },
+          {
+            "from_name": "misleading",
+            "id": "ExqZEyrU3J",
+            "to_name": "isi",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Not Misleading"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "created_at": 1594860443,
+        "id": 8003,
+        "lead_time": 8.948,
+        "result": [
+          {
+            "from_name": "clickbait",
+            "id": "0qY2h_X7tk",
+            "to_name": "judul",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Neutral"
+              ]
+            }
+          },
+          {
+            "from_name": "misleading",
+            "id": "Bstw9hlTtK",
+            "to_name": "isi",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Not Misleading"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "created_at": 1594860530,
+        "id": 8004,
+        "lead_time": 13.087,
+        "result": [
+          {
+            "from_name": "clickbait",
+            "id": "UOlitV1xbD",
+            "to_name": "judul",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Neutral"
+              ]
+            }
+          },
+          {
+            "from_name": "misleading",
+            "id": "7ktgJaCEIi",
+            "to_name": "isi",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Not Misleading"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "created_at": 1594860601,
+        "id": 8005,
+        "lead_time": 70.505,
+        "result": [
+          {
+            "from_name": "clickbait",
+            "id": "g1hoUxetm5",
+            "to_name": "judul",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Neutral"
+              ]
+            }
+          },
+          {
+            "from_name": "misleading",
+            "id": "vkxt4w74vg",
+            "to_name": "isi",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Not Misleading"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "created_at": 1594860653,
+        "id": 8006,
+        "lead_time": 5.63,
+        "result": [
+          {
+            "from_name": "clickbait",
+            "id": "0dJmwOlytX",
+            "to_name": "judul",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Neutral"
+              ]
+            }
+          },
+          {
+            "from_name": "misleading",
+            "id": "8S7BT4eq0Y",
+            "to_name": "isi",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Not Misleading"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "created_at": 1594860915,
+        "id": 8007,
+        "lead_time": 533.244,
+        "result": [
+          {
+            "from_name": "clickbait",
+            "id": "707r0gZO6y",
+            "to_name": "judul",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Neutral"
+              ]
+            }
+          },
+          {
+            "from_name": "misleading",
+            "id": "y3zgg--Emv",
+            "to_name": "isi",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Not Misleading"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "isi": "\nREPUBLIKA.CO.ID, JAKARTA -- Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi (MenpanRB) Tjahjo Kumolo mengatakan visi dan misi Presiden Joko Widodo menjadi dasar evaluasi kembali efektivitas 18 lembaga negara. Evaluasi dilakukan untuk penyederhanaan birokrasi. \n\"Visi-misi Presiden terkait reformasi birokrasi menjadi dasar evaluasi pengintegrasian dan penghapusan 18 lembaga negara dalam rangka penyederhanaan birokrasi,\" kata Tjahjo lewat pesan singkat yang diterima di Jakarta, Rabu (15/7).\nEvaluasi itu meliputi evaluasi potensi tumpang-tindih dan fragmentasi antarkementerian dan lembaga, penyederhanaan struktur organisasi guna mempercepat proses pengambilan keputusan, dan penyederhanaan proses birokrasi pemerintah sekaligus mengoptimalkan profesionalisme aparatur. \"Penyederhanaan birokrasi yang ada antara lain evaluasi terhadap pelaksanaan kinerja dan birokrasi, termasuk pelayanan publik, serta memberikan rekomendasi dalam upaya penyederhanaan birokrasi dalam upaya perbaikan birokrasi,\" kata Tjahjo.\nMenpanRB juga melanjutkan penghapusan lembaga nonstruktural itu untuk menghindari terjadinya pemborosan kewenangan dan meningkatkan efisiensi. \"Ada sejumlah lembaga nonstruktural yang berpotensi untuk dibubarkan yang dibentuk berdasarkan peraturan presiden atau keputusan presiden serta melalui peraturan pemerintah dan undang-undang. Terhadap UU tentu harus ada proses panjang berupa revisi UU dan mengajukan kepada DPR yang mempunyai hak dalam bidang legislasi,\" kata Tjahjo.\nsumber : Antara \n",
+      "judul": "Tjahjo: Dasar Evaluasi 18 Lembaga adalah Visi-Misi Presiden",
+      "sumber": "Republika",
+      "tanggal": "Kamis   16 Jul 2020  05:02 WIB\n"
+    },
+    "id": 8,
+    "predictions": []
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1594861001,
+        "id": 12001,
+        "lead_time": 85.04,
+        "result": [
+          {
+            "from_name": "clickbait",
+            "id": "sRI7W3tNI7",
+            "to_name": "judul",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Neutral"
+              ]
+            }
+          },
+          {
+            "from_name": "misleading",
+            "id": "n9BJ016fcf",
+            "to_name": "isi",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Not Misleading"
+              ]
+            }
+          }
+        ],
+        "skipped": true,
+        "was_cancelled": true
+      }
+    ],
+    "data": {
+      "isi": "\nJakarta - Epistimologi Khidhir tidak lagi mengandalkan logika. Bukannya Khidhir anti logika tetapi sudah melewati fase logika itu. Selama orang masih berkutat di dunia logika maka selama itu sulit untuk menembus hijab-hijab yang jumlahnya menurut hadis Nabi sebanyak 70 lapis. Menurut Imam Al-Gazali, ilmu hushuli, yaitu ilmu yang hanya diperoleh melalui olah nalar, tidak disertai olah batin, akan menjadi hijab yang yang amat tebal untuk ditembus para pencari Tuhan (salikin). Dengan kata lain, ilmu-ilmu logika sulit mengantarkan seseorang untuk menyingkap tabir rahasia Tuhan (mukasyafah).Khidhir meninggalkan Musa merupakan peristiwa simbolik. Khidhir tidak memberikan ijazah kelulusan terhadap muridnya, Musa, bahkan terkesan gagal dengan ketidak mampuannya mengikuti aturan Khidhir, akan tetapi justru itu merupakan \"tanda lulus\" agar Musa mau menyadari bahwa di atas langit masih ada langit. Dengan begitu, Musa terus akan mencari sendiri jalan ma'rifahnya menuju puncak ketinggian. Karena memang semakin ke puncak semakin memerlukan pendekatan dan kemampuan personal. Mursyid atau sang guru biasanya hanya menuntun sampai ke leher gunung tetapi ke puncak diperlukan kekuatan pribadi. Sama dengan Jibril, hanya mengantar sampai ke maqam khusus para malaikat, tetapi ke puncak (Sidratil Muntaha) Nabi Muhammad ditentukan sendiri jalannya oleh Sang Pengundang, Allah Swt. Fungsi Khidhir terhadap Nabi Musa seperti fungsi Jibril terhadap Nabi Muhammad Saw, yaitu mengantar ke leher gunung untuk sampai ke puncak seorang diri.\nSebagai seorang awam, pelajaran berharga dari kisah Khidhir dan Nabi Musa ialah: 1) Berikanlah kesempatan kepada pembawa amanah untuk meneruskan program-programnya tanpa harus banyak diintrupsi. 2) Di atas langit ada langit, tidak boleh seseorang merasa diri serba hebat sendiri. 3) Jangan pernah memandang enteng orang-orang yang kelihatan biasa-biasa, karena boleh jadi ia tidak populer di bumi tetapi populer di langit. 4) Sekolah profesional tidak mesti harus di dalam bangunan yang megah. Penjelasan fauna dan flora di papan tulis atau layar monitor, tidak bisa mengalahkan pengenalan langsung secara visual obyek itu di lapangan. 5) Jangan berhenti pada kecerdasan intelektual karena tidak banyak artinya dibandingkan dengan kecerdasan spiritual. 6) Orang pintar belum tentu arif. Kearifan lebih banyak menyelesaikan persoalan daripada kepintaran.Secara khawas, kisah Khidhir dan Nabi Musa ialah: 1) Tinggalkan logika jika ingin mukasyafah. Selama masih ada logika maka hijab tidak akan tersingkap secara keseluruhan. 2) Tujuan akhir dan merupakan puncak pencarian anak manusia sesungguhnya bukan dunia lahiriah tetapi dunia batiniah. Kepuasan puncak adalah kepuasan rohani. 3) Khidhir adalah figur personal simbolik. Khidhir secara kebahasaan berarti \"kehadiran\", seakar kata dengan hadhir yang semakna dengan bahasa Indonesia \"hadir\". Boleh jadi hati nurani kita sendiri adalah Khidhir bagi kita. Siapapun biasa menjadi Khidhir dan setiap orang mempunyai Khidhirnya masing-masing. Jika Allah Swt akan menuntun hambanya maka Ia akan mengutus Khidhir untuknya. Khidhir sesungguhnya ialah sahabat spiritual kita, siapapun dan apapun dia.\n(lus/lus)\nal-ta'lim al-muta'allim\nimam besar masjid istiqlal\nnasaruddin umar\nepistimologi khidhir\ndetik muslim\nhikmah\n",
+      "judul": "Epistimologi Khidhir",
+      "sumber": "Detik",
+      "tanggal": "Kamis, 16 Jul 2020 07:00 WIB"
+    },
+    "id": 12
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1594860574,
+        "id": 10001,
+        "lead_time": 132.78,
+        "result": [
+          {
+            "from_name": "clickbait",
+            "id": "HWSaKeXk4g",
+            "to_name": "judul",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Neutral"
+              ]
+            }
+          },
+          {
+            "from_name": "misleading",
+            "id": "MScegPS-oK",
+            "to_name": "isi",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Not Misleading"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "isi": "\nJakarta - Sejumlah aliansi buruh yang tergabung dalam Gerakan Buruh bersama Rakyat (Gebrak) akan menggelar aksi protes di depan DPR RI, Jakarta Pusat hari ini. Para buruh menuntut agar DPR menghentikan pembahasan Omnibus Law RUU Cipta Kerja (Ciptaker) yang dinilai cacat prosedur dan bermasalah dalam substansi.Juru Bicara aksi Gebrak, Ilhamsyah mengklaim ada belasan ribu orang akan mengepung Gedung DPR RI. Aksi kali ini, kata dia, akan bertepatan dengan sidang Paripurna DPR.\"Aksi damai ini merupakan peringatan bagi pemerintah dan wakil rakyat agar mendengar dan melihat penderitaan rakyat yang mengalami pemutusan hubungan kerja (PHK) dan jadi korban pembiaran perampasan tanah di mana-mana. Kami ingin pemerintah fokus atasi Covid-19 dan memastikan perlindungan kesejahteraan, menegakkan keadilan, serta menghormati demokrasi,\" kata Ilham kepada wartawan, Rabu (15/7/2020).\nIlham mengatakan massa akan datang ke titik kumpul yang sudah ditentukan pada pukul 10.00 WIB. Kemudian, kata dia, massa akan melakukan longmarch ke depan DPR.\"Kita akan mulai berkumpul mulai jam 10.00 WIB di Taman Ria Senayan, dan jam 11.00 WIB akan longmarch ke depan pintu gerbang DPR,\" ucap Ilham.Dia menyatakan dalam aksi ini protokol kesehatan akan diterapkan untuk menghindari penularan COVID-19. Menurutnya, panitia aksi sudah menyiapkan masker bagi massa yang datang tanpa masker. \"Kita mengingatkan kepada semua peserta aksi untuk menjaga protokol, dalam artian semua wajib memakai masker, panitia juga menyediakan masker bagi yang tidak memakai masker. Kita menerapkan physcal distancing agar kawan-kawan tetap menjaga jarak satu sama lain,\" pungkasnya.\n(fas/knv)\ndemo buruh\nburuh tolak omnibus law\nomnibus law\ndemo di dpr\n",
+      "judul": "Tolak Omnibus Law, Massa Buruh Demo di Depan DPR Siang Ini",
+      "sumber": "Detik",
+      "tanggal": "Kamis, 16 Jul 2020 07:16 WIB"
+    },
+    "id": 10
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1594863547,
+        "id": 30001,
+        "lead_time": 59.694,
+        "result": [
+          {
+            "from_name": "clickbait",
+            "id": "B63W5DuCSL",
+            "to_name": "judul",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Clickbait"
+              ]
+            }
+          },
+          {
+            "from_name": "misleading",
+            "id": "g0NQowXyxn",
+            "to_name": "isi",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Not Misleading"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "isi": "\nKOMPAS.com- Petugas medis mendapat penolakan saat menjemput pasien  positif Covid-19 di Kelurahan Candi, Kotawaringin Barat, Kalimantan Tengah, Sabtu (11/7/2020).\nPasien perempuan yang merupakan pedagang ayam di Pasar Cempaka tersebut kukuh menolak diisolasi. Tak hanya itu, keluarganya turut menghalangi.\nSuami pasien malah meyakini penyakit istrinya tersebut disebabkan karena setan, bukan lantaran Covid-19.\n\"Kalau sakit memang sampai sekarang, (tapi) cuma 4 hari saja (yang benar-benar) sakit, cuma setan saja itu,\" seru sang suami yang tak mengizinkan istrinya diisolasi.\nBaca juga: \nIngin tahu seperti apa corona\nLihat Foto Tangkapan layar video yang direkam petugas surveilans Puskesmas Kumai, Kalimantan Tengah, saat membujuk keluarga pasien terkonfirmasi positif Covid-19 agar mau menjalani isolasi, Sabtu (11/7/2020). Pasien dan keluarga menolak. (KOMPAS.com/DEWANTARA)Sang suami bahkan menantang dan ingin mengetahui seperti apa virus Covid-19.\n\"Biar mati enggak apa-apa. Semua manusia itu pasti mati semua. Seperti apa corona itu, saya mau tahu,\" kata suami pasien positif Covid-19.\nHal itu juga diperkuat dengan sikap pasien positif Covid-19 yang kukuh menolak dikarantina.\nSang pasien meyakini dirinya hanya kurang darah.\n\"Sudah 20 hari (sejak di-rapid test). Saya enggak sakit apa-apa. Cuma kurang darah saja kata dokter,\" ujar si pasien perempuan dalam bahasa daerahnya.\nBaca juga: \n ",
+      "judul": "Tak Izinkan Istri Positif Covid-19 Diisolasi, Suami Yakini Penyakit Disebabkan Setan",
+      "sumber": "Kompas",
+      "tanggal": "Kompas.com - 16/07/2020, 07:27 WIB"
+    },
+    "id": 30
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1594860001,
+        "id": 3001,
+        "lead_time": 7.676,
+        "result": [
+          {
+            "from_name": "clickbait",
+            "id": "x85153zCEE",
+            "to_name": "judul",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Neutral"
+              ]
+            }
+          },
+          {
+            "from_name": "misleading",
+            "id": "qZ5dQdwqB_",
+            "to_name": "isi",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Not Misleading"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "created_at": 1594860381,
+        "id": 3002,
+        "lead_time": 439.945,
+        "result": [
+          {
+            "from_name": "clickbait",
+            "id": "rQmn_Zbi1P",
+            "to_name": "judul",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Neutral"
+              ]
+            }
+          },
+          {
+            "from_name": "misleading",
+            "id": "I7I4D2Po8I",
+            "to_name": "isi",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Not Misleading"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "isi": "\nBOGOR – Presiden Joko Widodo (Jokowi) sedang menyusun instruksi presiden (inpres) yang mengatur pemberian sanksi kepada pelanggar protokol kesehatan pencegahan Covid-19. Aturan tersebut akan dikeluarkan sebagai dasar hukum untuk penerapan sanksi di seluruh Indonesia. “Kita (Jawa Barat) diapresiasi presiden karena duluan berinisiatif mewacanakan sanksi. Nah,  Presiden sedang siapkan namanya instruksi... \nLihat Artikel Asli\nBaca Selengkapnya di republika.id\n ';\n\t\t                      \n",
+      "judul": "Inpres Sanksi Pelanggar Protokol Kesehatan Disiapkan",
+      "sumber": "Republika",
+      "tanggal": "Kamis   16 Jul 2020  06:45 WIB\n"
+    },
+    "id": 3,
+    "predictions": []
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1594861984,
+        "id": 19001,
+        "lead_time": 32.045,
+        "result": [
+          {
+            "from_name": "clickbait",
+            "id": "lZhl7vkVOj",
+            "to_name": "judul",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Neutral"
+              ]
+            }
+          },
+          {
+            "from_name": "misleading",
+            "id": "uSEboGjZPx",
+            "to_name": "isi",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Not Misleading"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "isi": "\nJakarta - Persaudaraan Alumni (PA) 212 bersama sejumlah ormas yang tergabung dalam Aliansi Nasional Anti Komunis Anak NKRI akan melakukan aksi di depan Gedung DPR, Jakarta Pusat hari ini. Mereka kembali melakukan aksi untuk menolak Rancangan Undang-Undang Haluan Ideologi Pancasila (RUU HIP).Polda Metro Jaya membenarkan terkait rencana aksi demo PA 212 yang akan digelar di depan Gedung DPR, Senayan, Jakarta Pusat ini. Polisi telah menerima surat pemberitahuan akan dilaksanakannya aksi kali ini.\"Iya (besok demo),\" kata Kabid Humas Polda Metro Jaya, Kombes Yusri Yunus kepada wartawan, Rabu (15/7/2020).\nSementara itu, Ketua Umum PA 212, Slamet Maarif mengklaim ada 174 ormas yang akan ikut dalam aksi ini. Selain itu, lanjutnya, sekitar 10 ribu orang akan hadir dalam aksi ini.Dia mengungkapkan aksi ini dilakukan karena DPR/MPR belum menanggapi maklumat Majelis Ulama Indonesia (MUI) dan ormas di berbagai wilayah secara serius. Slamet mengatakan semuanya akan terus berjuang sampai RUU HIP ini dicabut.\"Sedangkan tanggal 16 (Juli) nanti adalah sidang paripurna untuk penutupan masa sidang DPR/MPR. Nah kesempatan itu pasti akan digunakan DPR/MPR untuk mengambil keputusan-keputusan. Oleh karenanya kita ingin di rapat paripurna besok, kita akan menuntut agar DPR mencabut atau membatalkan RUU Prolegnas dari Prolegnas,\" kata Slamet Maarif, di gedung Dewan Dakwah Islamiyah Indonesia, Jalan Kramat Raya No 45, Kramat, Senen, Jakarta Pusat, Selasa (14/7/2020).Selain itu, Slamet mengatakan massa ingin agar inisiator RUU HIP ini diusut. \"Kemudian kita juga akan menuntut untuk segera mengusut inisiatornya dari RUU ini. Dan yang ketiga, kita juga akan menuntut siapa pun, apa pun, partai/ormas yang ingin mencoba untuk mengganti Pancasila dengan apapun untuk dibubarkan,\" ujarnya.\n(fas/knv)\npa 212\ndemo tolak ruu hip\npolda metro jaya\ndemo di dpr\n",
+      "judul": "PA 212 dkk Kembali Demo Tolak RUU HIP di Depan DPR Hari Ini",
+      "sumber": "Detik",
+      "tanggal": "Kamis, 16 Jul 2020 05:44 WIB"
+    },
+    "id": 19
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1594865082,
+        "id": 37001,
+        "lead_time": 13.167,
+        "result": [
+          {
+            "from_name": "clickbait",
+            "id": "7-5xfUCoPU",
+            "to_name": "judul",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Clickbait"
+              ]
+            }
+          },
+          {
+            "from_name": "misleading",
+            "id": "P8Z5JnaG5N",
+            "to_name": "isi",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Not Misleading"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "isi": "\n DEPOK, KOMPAS.com - Universitas Islam Internasional Indonesia (UIII) di  Depok, Jawa Barat direncanakan akan memulai perkuliahannya pada Maret 2021 mendatang. Rencana ini molor satu semester dengan rencana semula, yakni membuka  perkuliahan pada September-Oktober tahun ini, akibat  pandemi Covid-19 yang melanda. \"Kami sudah mendapatkan clearance atau kesepakatan bahwa kami akan buka perkuliahan UIII pada Maret 2021. Kami tunda ke 2021, termasuk karena sebagian pembangunan juga terhambat karena Covid-19 dan beberapa bulan libur,\" jelas Direktur Pendidikan Tinggi Keagamaan Islam Kementerian Agama RI Arskal Salim kepada wartawan pada Rabu (15/7/2020).\nBaca juga:  Arskal bilang, sejauh ini fasilitas yang sudah siap pakai di UIII baru perumahan untuk dosen tamu dari mancanegara serta dua menara asrama yang sanggup menampung 400 orang mahasiswa. Sementara itu, pembangunan gedung rektorat serta gedung-gedung fakultas saat ini sedang dikebut agar mampu memenuhi target siap operasi pada Maret 2021 mendatang. \"Ada tiga paket pembangunan, dua paket direncanakan rampung Agustus, nanti serah terima. Mungkin kurang lebih progres pembangunan sudah 65-75 persen,\" kata Arskal. Saat pembukaan perdana kampus, lanjut dia, UIII menargetkan hanya menerima 250-300 mahasiswa baru.\nBaca juga:  Mereka akan dibagi ke empat program studi yang dibuka Maret nanti, yaitu Studi Islam, Ekonomi Islam, Pendidikan, serta Ilmu Politik. Dari jumlah itu, rencana kuota maksimal untuk mahasiswa mancanegara sebanyak 40 persen, sisanya untuk mahasiswa domestik. \"Jadi kalau ternyata mahasiswa domestiknya lebih banyak ya boleh,\" tutup Arskal. Pembangunan kampus UIII di Sukmajaya, Depok diinisiasi Presiden RI Joko Widodo melalui Peraturan Pemerintah Nomor 57 Tahun 2016.\nBaca juga:  Pembangunan yang dieksekusi pada 2018 silam diwarnai kontroversi karena menggusur permukiman warga serta menara RRI yang sudah bertahun-tahun ada di atas lahan tersebut. Sengketa akhirnya dimasukkan ke dalam PTUN yang akhirnya memenangkan Kementerian Agama dalam hal lahan UIII. ",
+      "judul": "Molor karena Pandemi, Universitas Islam Internasional Indonesia Buka Perkuliahan Maret 2021",
+      "sumber": "Kompas",
+      "tanggal": "Kompas.com - 16/07/2020, 07:03 WIB"
+    },
+    "id": 37
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1594865253,
+        "id": 38001,
+        "lead_time": 92.394,
+        "result": [
+          {
+            "from_name": "clickbait",
+            "id": "qQEsllGk2Z",
+            "to_name": "judul",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Clickbait"
+              ]
+            }
+          },
+          {
+            "from_name": "misleading",
+            "id": "CHRi0YkbRp",
+            "to_name": "isi",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Not Misleading"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "created_at": 1594866696,
+        "id": 38002,
+        "lead_time": 1613.193,
+        "result": [
+          {
+            "from_name": "clickbait",
+            "id": "RV9ugTgVVX",
+            "to_name": "judul",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Clickbait"
+              ]
+            }
+          },
+          {
+            "from_name": "misleading",
+            "id": "hARAB6NqTD",
+            "to_name": "isi",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Misleading"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "isi": "\nKOMPAS.com- Seorang anak di Kabupaten  Kebumen, Jawa Tengah berinisial TY (37) tega menghabisi nyawa ibu kandungnya sendiri.\nPenganiayaan dan pembunuhan pada Selasa (23/6/2020) itu dilakukan lantaran persoalan harta warisan.\nNamun kemudian, beberapa hari usai membunuh ibunya, sang anak menangis tersedu-sedu dan menyatakan bertobat.\nBaca juga: \nBunuh ibu karena warisan\nLihat Foto Ungkap kasus penganiayan anak terhadap ibu kandung hingga meninggal dunia di Mapolres Kebumen, Jawa Tengah, Jumat (10/7/2020).(KOMPAS.COM/DOK POLRES KEBUMEN)Kapolres Kebumen AKBP Rudy Cahya Kurniawan mengemukakan, pembunuhan didasari masalah warisan.\nTersangka meminta ibunya mengubah surat perjanjian yang dibuat oleh keluarganya dan berharap mendapatkan warisan lagi di kemudian hari.\nMenurut Rudy, surat perjanjian yang dimaksud ialah, tersangka pernah menjual tanah keluarga seluas 30 ubin senilai Rp 45 juta.\n\"Dengan diubahnya surat perjanjian itu, tersangka berharap mendapatkan warisan lagi di kemudian hari. Namun saat diminta untuk diubah, korban menolak dan membuat tersangka marah,\" jelas Rudy.\nBaca juga: \n ",
+      "judul": "Tangis Tobat Anak Pembunuh Ibu Kandung, Langsung Minta Buku Tuntunan Shalat",
+      "sumber": "Kompas",
+      "tanggal": "Kompas.com - 16/07/2020, 06:57 WIB"
+    },
+    "id": 38,
+    "predictions": []
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1594863153,
+        "id": 25001,
+        "lead_time": 9.765,
+        "result": [
+          {
+            "from_name": "clickbait",
+            "id": "oI6e3wOfrD",
+            "to_name": "judul",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Neutral"
+              ]
+            }
+          },
+          {
+            "from_name": "misleading",
+            "id": "y07omZGqxz",
+            "to_name": "isi",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Not Misleading"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "isi": "\nJakarta -  Pemerintah Filipina mengerahkan polisi untuk memastikan bahwa orang yang positif virus Corona (COVID-19), yang tidak bisa isolasi mandiri di rumah, dipindah ke tempat karantina milik pemerintah. Kebijakan itu mendapat protes dari pegiat hak asasi manusia (HAM).Dilansir dari AFP, Rabu (15/7/2020), langkah ini dilakukan saat pemerintah meningkatkan upaya untuk memperlambat penyebaran penyakit dengan meningkatkan pengujian, menerapkan kembali karantina wilayah, dan membangun puluhan pusat karantina untuk mengisolasi pasien dengan gejala ringan.\nJika ada penolakan, polisi menemani petugas kesehatan ke rumah-rumah orang yang dites. Saat dinyatakan positif, maka mereka membawanya ke fasilitas pemerintah jika rumah mereka dianggap tidak memadai untuk isolasi mandiri.\"Kami lebih suka bahwa asimptomatik dan kasus-kasus ringan secara sukarela menyerah dan mengurung diri mereka di pusat-pusat isolasi,\" kata juru bicara Presiden Rodrigo Duterte, Harry Roque.\nselanjutnya\n            Selanjutnya \nHalaman\n1\n2\nvirus corona\ncorona\nfilipina\n",
+      "judul": "Filipina Kerahkan Polisi untuk Paksa Pengidap Corona Dikarantina",
+      "sumber": "Detik",
+      "tanggal": "Kamis, 16 Jul 2020 00:50 WIB"
+    },
+    "id": 25
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1594861512,
+        "id": 16001,
+        "lead_time": 135.441,
+        "result": [
+          {
+            "from_name": "clickbait",
+            "id": "VtxPE7pnZy",
+            "to_name": "judul",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Clickbait"
+              ]
+            }
+          },
+          {
+            "from_name": "misleading",
+            "id": "hxmwv6IvXq",
+            "to_name": "isi",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Misleading"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "isi": "\nJakarta -  Siti Nur Azizah bikin heboh karena menggoda artis Raffi Ahmad untuk mendampinginya di Pilkada Tangerang Selatan. Nyatanya, rayuan putri Wakil Presiden Ma'ruf Amin itu hanya bercanda.Godaan itu awalnya dilontarkan Azizah saat bertandang ke rumah Raffi Ahmad. Momen itu lalu ditampilkan di akun Youtube Raffi, Rans Entertainment.\"Saya mau menengok Raffi, menengok Nagita, menengok Rafathar. Sekalian mau nawarin Raffi, mau nggak jadi wakil saya,\" kata Azizah menjelaskan kedatangannya. Mereka semua lalu tertawa, termasuk Raffi dan sang istri, Nagita Slavina.\nSaat dikonfirmasi, Azizah mengatakan dalam politik, semua kemungkinan bisa terjadi. Soal serius atau tidaknya tawaran mengenai calon wakil wali kota Tangsel, Azizah menyerahkan sepenuhnya kepada Raffi.\"Mengenai serius atau nggaknya tawaran itu, lebih baik ditanyakan ke Raffi saja. Dalam politik kan semua serba mungkin,\" kata Azizah kepada wartawan, Selasa (14/7).Raffi Ahmad / Foto: Raffi Ahmad / IsmailAzizah sendiri saat ini duduk sebagai Wasekjen Partai Demokrat. Ternyata, Demokrat pun memberi lampu hijau jika Azizah berduet dengan Raffi Ahmad.Demokrat menyebut Siti Nur Azizah sudah melakukan pembicaraan dengan PKS. Meski demikian, Demokrat menyatakan manuver Siti Nur Azizah dengan mencoba menggandeng Raffi Ahmad sah-sah saja karena belum ada penetapan dari KPU.\"Bagi kami kalau misalnya Bu Siti Nur Azizah kemudian berkeinginan mengganti pasangan, kami menyerahkan sepenuhnya ke Bu Siti Azizah karena beliau yang akan maju tentunya paham tahu betul situasi lapangan yang paling menguntungkan untuk berkoalisi,\" kata Sekretaris Bappilu Demokrat Kamhar Lakumani saat dihubungi, Rabu (15/7).Lalu, apa kata PKS?\nselanjutnya\n            Selanjutnya \nHalaman\n1\n2\nsiti nur azizah\nputri ma'ruf amin\npilkada tangsel\npilwalkot tangsel\npilkada 2020\nraffi ahmad\nround-up\n",
+      "judul": "Rayuan Nur Azizah ke Raffi Ahmad yang Ternyata Hanya Candaan",
+      "sumber": "Detik",
+      "tanggal": "Kamis, 16 Jul 2020 06:31 WIB"
+    },
+    "id": 16
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1594863159,
+        "id": 26001,
+        "lead_time": 6.462,
+        "result": [
+          {
+            "from_name": "clickbait",
+            "id": "tzJguH2GEC",
+            "to_name": "judul",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Neutral"
+              ]
+            }
+          },
+          {
+            "from_name": "misleading",
+            "id": "mqCrUuEJwF",
+            "to_name": "isi",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Not Misleading"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "isi": "\nJakarta - Sejumlah aliansi buruh yang tergabung dalam Gerakan Buruh bersama Rakyat (Gebrak) akan menggelar aksi protes di depan DPR RI, Jakarta Pusat hari ini. Para buruh menuntut agar DPR menghentikan pembahasan Omnibus Law RUU Cipta Kerja (Ciptaker) yang dinilai cacat prosedur dan bermasalah dalam substansi.Juru Bicara aksi Gebrak, Ilhamsyah mengklaim ada belasan ribu orang akan mengepung Gedung DPR RI. Aksi kali ini, kata dia, akan bertepatan dengan sidang Paripurna DPR.\"Aksi damai ini merupakan peringatan bagi pemerintah dan wakil rakyat agar mendengar dan melihat penderitaan rakyat yang mengalami pemutusan hubungan kerja (PHK) dan jadi korban pembiaran perampasan tanah di mana-mana. Kami ingin pemerintah fokus atasi Covid-19 dan memastikan perlindungan kesejahteraan, menegakkan keadilan, serta menghormati demokrasi,\" kata Ilham kepada wartawan, Rabu (15/7/2020).\nIlham mengatakan massa akan datang ke titik kumpul yang sudah ditentukan pada pukul 10.00 WIB. Kemudian, kata dia, massa akan melakukan longmarch ke depan DPR.\"Kita akan mulai berkumpul mulai jam 10.00 WIB di Taman Ria Senayan, dan jam 11.00 WIB akan longmarch ke depan pintu gerbang DPR,\" ucap Ilham.Dia menyatakan dalam aksi ini protokol kesehatan akan diterapkan untuk menghindari penularan COVID-19. Menurutnya, panitia aksi sudah menyiapkan masker bagi massa yang datang tanpa masker. \"Kita mengingatkan kepada semua peserta aksi untuk menjaga protokol, dalam artian semua wajib memakai masker, panitia juga menyediakan masker bagi yang tidak memakai masker. Kita menerapkan physcal distancing agar kawan-kawan tetap menjaga jarak satu sama lain,\" pungkasnya.\n(fas/knv)\ndemo buruh\nburuh tolak omnibus law\nomnibus law\ndemo di dpr\n",
+      "judul": "Tolak Omnibus Law, Massa Buruh Demo di Depan DPR Siang Ini",
+      "sumber": "Detik",
+      "tanggal": "Kamis, 16 Jul 2020 07:16 WIB"
+    },
+    "id": 26
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1594860080,
+        "id": 6001,
+        "lead_time": 9.888,
+        "result": [
+          {
+            "from_name": "clickbait",
+            "id": "yHn69jnFRT",
+            "to_name": "judul",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Clickbait"
+              ]
+            }
+          },
+          {
+            "from_name": "misleading",
+            "id": "1Rd9buAfqX",
+            "to_name": "isi",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Not Misleading"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "isi": "\nREPUBLIKA.CO.ID, Oleh Selamat Ginting/Wartawan Senior Republika Saat ini para perwira remaja abituren (lulusan) Akademi Militer (Akmil), Akademi Angkatan Laut (AAL), Akademi Angkatan Udara (AAU) maupun Akademi Kepolisian (Akpol) sedang menikmati euforia. Euforia setelah Selasa (14/7) lalu resmi dilantik Presiden Joko Widodo (Jokowi) menjadi perwira pertama (pama). Pekan sebelumnya diwisuda menjadi sarjana terapan pertahanan bagi TNI dan sarjana terapan kepolisian bagi Polri. Tentu sebuah perjalanan panjang untuk bisa mencapai golongan perwira tinggi (pati). Mereka harus berjuang minimal selama 27 tahun, baru bisa memperoleh pangkat Brigadir Jenderal TNI, Laksamana Pertama TNI, Marsekal Pertama TNI, maupun Brigadir Jenderal Polisi. Artinya pada 2047 mereka baru bisa memperoleh pangkat jenderal bintang satu. \nItu pun biasanya paling banyak hanya sekitar tiga orang saja dari masing-masing matra. Mereka ini yang disebut sebagai penjuru. Barulah setelah itu rekan-rekannya akan menyusul, utamanya setalah 30-32 tahun pengabdian sebagai perwira.  Hanya bagi yang berhasil menjadi pati, mereka akan diwisuda kembali di akademi almamaternya, baik Akmil, AAL, AAU, maupun Akpol. Itulah yang disebut sebagai wisuda purnawira pati. Tentu semua harus bersaing untuk bisa mendapatkan pangkat jenderal. Yang menarik jika ada saudara kembar berhasil menjadi jenderal. Sangat jarang dan menggemparkan.Gemparkan AkmilGempar! Saudara kembar berhasil menjadi jenderal bintang tiga Angkatan Darat (AD). Pertama di dunia. Dan itu adanya di Akmil Indonesia. Abituren Akmil Magelang 1983, Letnan Jenderal (Letjen) TNI Yoedhi Swastanto dan Letjen TNI Yoedhi Swastono. Keduanya sama-sama berasal dari korps Infanteri.\nSwantanto terakhir sebagai Rektor Universitas Pertahanan (Unhan). Sedangkan Swastono, terakhir sebagai Sekretaris Kementerian Koordinator Politik Hukum dan Keamanan (Kemenko Polhukam). Keduanya lahir di Madiun, Jawa Timur, 1 Juli 1960; usianya saat ini 60 tahun. “Kami tidak pikirkan pangkat dan jabatan. Kerja saja, orang lain yang menilai,” kata Letjen TNI (Purnawirawan) Yoedhi Swastono di kantor Kemenko Polhukan usai acara serah terima jabatan dengan Letjen TNI Agus Surya Bakti, akhir 2018 lalu. Si kembar ini sama-sama pernah menjadi Atase Pertahanan (Athan). Swastono, antara lain pernah menjadi Athan KBRI di Berlin, Jerman (2003-2006), Pamen Ahli Golongan IV Pusintelad Bidang Hubungan Luar Negeri (2012), Kepala BIN Daerah (Kabinda) Jawa Barat (2012-2013), dan Kabinda DKI Jakarta (2013-2014).\nDari jabatan itu, terungkap, ia adalah orang intelijen. Kemudian menjadi Deputi Bidang Koordinasi Politik Dalam Negeri Kemenko Polhukam (2014-2017). Terakhir sebagai Sesmenko Polhukam (2017-Juli 2018).Jika saudara kembarnya menjadi atase di Berlin, maka Swastanto menjadi Athan RI di Beijing, RRC. Kemudian Paban Utama G-2 Direktorat ”G” Badan Intelijen Strategis (Bais), selanjutnya Koordinator Sekretaris Pribadi (Koorspri) Panglima TNI. Dari situ menjadi Danrem 163/WS Kodam Udayana.\nLalu, Pamen Ahli KSAD Bidang Ideologi dan Politik. Barulah kemudian ia menjadi orang pendidikan. Dimulai dari Kapusdiklat Bahasa Badiklat Kementerian Pertahanan (Kemenhan) RI (2012). Geser dulu sebagai Dirjakstra Ditjen Strategi Pertahanan (Strahan) Kemenhan. Selanjutnya fokus sebagai Warek III Bidang Kerja sama Kelembagaan Unhan, dan Kepala Satuan Pengawas Unhan (2014).Menduduki jabatan strategis Dirjen Strahan Kemhan RI (2014). Kembali lagi ke kampus sebagai Ketua Lembaga Penelitian dan Pengabdian Masyarakat Unhan (2018). Puncaknya sebagai Rektor Unhan (2018). Ia menyandang gelar doktor. Akmil BandungMereka bukan yang pertama, jenderal kembar lulusan Akmil. Pada 1987 dua jenderal kembar juga diwisuda purnawira di Akmil Magelang. Mereka adalah Mayor Jenderal (Mayjen) TNI Sarwono dan Mayjen TNI Sarwoko. Keduanya lulusan Akmil Bandung, dulu disebut Akademi Zeni Angkatan Darat, tahun 1957. Tentu saja keduanya dari Korps Zeni. Sarwono terakhir dikaryakan sebagai Sekjen Kementerian Sosial. Sedangkan Sarwoko sebagai Irjen Kementerian Pertanian. Mereka dikaryakan atau alih fungsi sebagai pegawai negeri sipil golongan IV-E, hingga usia 60 tahun. Saat itu usia pensiun TNI/Polri masih 55 tahun. Di Kemenhan maupun Mabes TNI, jabatan Sekjen maupun Irjen setara dengan Letnan Jenderal TNI. Keduanya kelahiran tahun 1932 dan sudah wafat. Sarwoko memiliki NRP atau Nomor Registrasi Pusat 18344. Sarwono memiliki NRP 18348.Mereka pun sama-sama lulus Kursus Lanjutan Perwira Zeni. Kemudian Sekolah Staf dan Komando Angkatan Darat (Seskoad) 1970-1971 hingga Sesko Gabungan (TNI). Sarwoko antara lain pernah menjadi Direktur Kajian di Lembaga Ketahanan Nasional (Lemhannas). Sedangkan Sarwono pernah menjadi Pangdam 17 Agustus di Sumatra Barat. Juga Asisten Teritorial (Aster) di Mabes ABRI.\n \n",
+      "judul": "Dua Pasang Jenderal Kembar Gemparkan Akmil",
+      "sumber": "Republika",
+      "tanggal": "Kamis   16 Jul 2020  05:37 WIB\n"
+    },
+    "id": 6
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1594863952,
+        "id": 33001,
+        "lead_time": 64.91,
+        "result": [
+          {
+            "from_name": "clickbait",
+            "id": "Jqj7JEGpAW",
+            "to_name": "judul",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Neutral"
+              ]
+            }
+          },
+          {
+            "from_name": "misleading",
+            "id": "QOjIjwHHrf",
+            "to_name": "isi",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Not Misleading"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "isi": "\nJAKARTA, KOMPAS.com - Kesembuhan Covid-19 di Indonesia saat ini tercatat lebih banyak.\nBerdasarkan data pada Rabu (15/7/2020), total jumlah pasien yang sembuh dari Covid-19 mencapai 39.050 orang setelah terdapat penambahan sebanyak 1.414 orang dalam 24 jam terakhir.\nAnggota Tim Komunikasi  Gugus Tugas Percepatan Penanganan Covid-19 Reisa Broto Asmoro mengatakan, total pasien sembuh dari Covid-19 di Indonesia tersebut merupakan setengah dari jumlah kasus terkonfirmasi.\nJumlah kasus Covid-19 per Rabu (15/7/2020) telah mencapai 80.094.\n\"Jumlah pasien sembuh semakin banyak. Hampir setengah kasus terkonfirmasi di Indonesia, sembuh,\" ujar Reisa dalam konferensi pers di BNPB, Rabu (15/7/2020).\nReisa mengatakan, banyaknya pasien sembuh juga dikarenakan pemerintah menerapkan 3T, yakni testing (tes spesimen), tracing (penelusuran), dan treatment (perawatan).\nBaca juga: \nLebih lanjut, Reisa mengatakan, perawatan di Indonesia sudah mengalami kemajuan.\nHal tersebut tampak dari menurunnya rasio kapasitas tempat tidur di rumah sakit yang hanya berada di kisaran 50 persen.\n\"Ini berarti menunjukkan ketersediaan tempat tidur di rumah sakit, terutama di rumah sakit rujukan masih sangat tersedia,\" kata dia.\nPenyebab menurunnya rasio kapasitas tempat tidur di rumah sakit karena banyak masyarakat yang melakukan isolasi mandiri. ",
+      "judul": "Gugus Tugas Klaim Pasien Covid-19 Sembuh Makin Banyak, Berkat Penerapan 3T",
+      "sumber": "Kompas",
+      "tanggal": "Kompas.com - 16/07/2020, 07:15 WIB"
+    },
+    "id": 33
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1594865575,
+        "id": 39001,
+        "lead_time": 12.723,
+        "result": [
+          {
+            "from_name": "clickbait",
+            "id": "OtOB91yN7C",
+            "to_name": "judul",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Neutral"
+              ]
+            }
+          },
+          {
+            "from_name": "misleading",
+            "id": "FD1jbsJtk1",
+            "to_name": "isi",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Not Misleading"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "created_at": 1594865711,
+        "id": 39002,
+        "lead_time": 457.443,
+        "result": [
+          {
+            "from_name": "clickbait",
+            "id": "rV1O1cGk4V",
+            "to_name": "judul",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Neutral"
+              ]
+            }
+          },
+          {
+            "from_name": "misleading",
+            "id": "XADf-irl1G",
+            "to_name": "isi",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Not Misleading"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "isi": "\nJAKARTA, KOMPAS.com - Tim Pakar  Gugus Tugas Percepatan Penanganan Covid-19 Dewi Nur Aisyah mengatakan, kasus klaster baru Covid-19 di Pusat pendidikan Sekolah Calon Perwira (Secapa) TNI Angkatan Darat Bandung, dapat dijadikan pembelajaran.\nDia berharap penularan seperti ini tidak terjadi di kemudian hari.\n\"Pertama, ingat pentingnya menerapkan jaga jarak dan menghindari adanya kerumunan. Ketika ada orang banyak berkumpul di satu tempat dan waktu yang sama, \" ujar Dewi sebagaimana dikutip dari siaran pers Gugus Tugas Percepatan Penanganan Covid-19, Rabu (15/7/2020).\n\"Terlebih dengan sirkulasi udara yang tidak diketahui baik atau tidak, ini yang akan mempengaruhi laju penularan,\" lanjut Dewi.\nBaca juga: \nMenurut Dewi, jika satu orang terinfeksi dalam kondisi tersebut, penyebaran Covid-19 akan terjadi dengan sangat cepat.\nDalam hal ini, seluruh kegiatan yang melibatkan banyak orang berkumpul seperti  asrama, boarding school dan pesantren juga memiliki potensi penularan yang mirip dengan apa yang terjadi di Secapa.\nSelanjutnya, Dewi menjelaskan bahwa daya tahan tubuh yang baik menjadi hal penting untuk mencegah penularan Covid-19.\n\"Hasil pemeriksaan menunjukan dari 1.262 orang yang positif, hanya 17 orang yang dirawat dengan gejala ringan dan lainnya masuk dalam kategori Orang Tanpa Gejala (OTG),\" tutur Dewi.\nBaca juga: \n\"Hal ini juga menunjukkan bahwa daya tahan tubuh yang dimiliki oleh peserta didik dan pelatih yang ada di Secapa membantu mereka dari infeksi virus sehingga tidak ada keluhan berat,\" lanjutnya.\nAdapun pelajaran lain yang bisa dipetik dari kasus  Secapa AD Bandung adalah potensi penularan dari orang yang tidak bergejala. ",
+      "judul": "Gugus Tugas: Klaster Secapa AD Dapat Dijadikan Pembelajaran Penularan Covid-19 di Asrama",
+      "sumber": "Kompas",
+      "tanggal": "Kompas.com - 16/07/2020, 06:57 WIB"
+    },
+    "id": 39,
+    "predictions": []
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1594862726,
+        "id": 23001,
+        "lead_time": 11.687,
+        "result": [
+          {
+            "from_name": "clickbait",
+            "id": "07nsFAL4n5",
+            "to_name": "judul",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Neutral"
+              ]
+            }
+          },
+          {
+            "from_name": "misleading",
+            "id": "YCcTZkaWlB",
+            "to_name": "isi",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Not Misleading"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "created_at": 1594862747,
+        "id": 23002,
+        "lead_time": 510.472,
+        "result": [
+          {
+            "from_name": "clickbait",
+            "id": "4tI2tby4SW",
+            "to_name": "judul",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Neutral"
+              ]
+            }
+          },
+          {
+            "from_name": "misleading",
+            "id": "jIolSdqODa",
+            "to_name": "isi",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Not Misleading"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "created_at": 1594862788,
+        "id": 23003,
+        "lead_time": 10.133,
+        "result": [
+          {
+            "from_name": "clickbait",
+            "id": "y0oMUiffE3",
+            "to_name": "judul",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Neutral"
+              ]
+            }
+          },
+          {
+            "from_name": "misleading",
+            "id": "mg6qsvMDNb",
+            "to_name": "isi",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Not Misleading"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "created_at": 1594862836,
+        "id": 23004,
+        "lead_time": 6.057,
+        "result": [
+          {
+            "from_name": "clickbait",
+            "id": "D1pFRmjMkZ",
+            "to_name": "judul",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Neutral"
+              ]
+            }
+          },
+          {
+            "from_name": "misleading",
+            "id": "JOYQXtb90p",
+            "to_name": "isi",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Not Misleading"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "created_at": 1594862846,
+        "id": 23005,
+        "lead_time": 9.384,
+        "result": [
+          {
+            "from_name": "clickbait",
+            "id": "n_desRXVDd",
+            "to_name": "judul",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Neutral"
+              ]
+            }
+          },
+          {
+            "from_name": "misleading",
+            "id": "XBklxL_qE4",
+            "to_name": "isi",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Not Misleading"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "created_at": 1594862912,
+        "id": 23006,
+        "lead_time": 11.14,
+        "result": [
+          {
+            "from_name": "clickbait",
+            "id": "C0LGcOWfOe",
+            "to_name": "judul",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Neutral"
+              ]
+            }
+          },
+          {
+            "from_name": "misleading",
+            "id": "ayRghi7Pl1",
+            "to_name": "isi",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Not Misleading"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "isi": "\nTunis - Perdana menteri Tunisia, Elyes Fakhfakh resmi mengundurkan diri. Peristiwa itu terjadi usai perselisihannya dengan partai pemenang pemilu, Partai Ennahdha.Dilansir dari AFP, menurut dua sumber resmi yang tidak ingin disebutkan mananya, Fakhfakh menyatakan mundur pada Rabu (15/7/2020).Fakhfakh, yang sedang diselidiki soal konflik kepentingan, telah membuat hubungan renggang dengan Partai Ennahdha. Ennahdha merupakan partai pemenang pemilihan legislatif pada Oktober 2019. Namun mereka tidak menguasai parlemen secara mutlak. Mereka memiliki 54 dari 217 kursi di parlemen.\nSebelum Fakhfakh mundur, Partai Ennahdha Rabu (15/7) mengajukan mosi tidak percaya terhadap Fakhfakh. Di bawah konstitusi Tunisia, mosi tidak percaya hanya bisa berhasil jika parlemen secara bersamaan menyetujui perdana menteri lainnya.Ennahdha mengatakan dalam sebuah pernyataan bahwa mereka telah memulai negosiasi untuk menemukan seorang kandidat yang dapat diterima oleh mayoritas anggota parlemen.Ekonomi Tunisia yang sudah rapuh sejak itu dipukuli oleh pandemi virus Corona (COVID-19).Fakhfakh, pemimpin sebuah partai sosial demokrat kecil, telah diselidiki atas dugaan kegagalan menyerahkan kendali atas saham yang dimilikinya di perusahaan swasta yang telah memenangkan kontrak publik dalam beberapa bulan terakhir.\"Situasi ekonomi dan sosial sangat serius dan hanya dapat diatasi oleh pemerintah yang kepalanya tidak dicurigai memiliki konflik kepentingan,\" kata seorang pejabat senior Ennahdha, Abdelkarim Harouni, pada konferensi pers, Senin (13/7).\n(aik/aik)\ntunisia\nkonflik politik\ndampak ekonomi corona\n",
+      "judul": "Perdana Menteri Tunisia Mundur Usai Konflik Politik",
+      "sumber": "Detik",
+      "tanggal": "Kamis, 16 Jul 2020 01:55 WIB"
+    },
+    "id": 23,
+    "predictions": []
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1594861528,
+        "id": 17001,
+        "lead_time": 14.808,
+        "result": [
+          {
+            "from_name": "clickbait",
+            "id": "Gr9ThFlFdH",
+            "to_name": "judul",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Neutral"
+              ]
+            }
+          },
+          {
+            "from_name": "misleading",
+            "id": "yhz3XTaJoh",
+            "to_name": "isi",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Not Misleading"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "created_at": 1594862165,
+        "id": 17002,
+        "lead_time": 642.812,
+        "result": [
+          {
+            "from_name": "clickbait",
+            "id": "eky2QzSqsX",
+            "to_name": "judul",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Neutral"
+              ]
+            }
+          },
+          {
+            "from_name": "misleading",
+            "id": "KipMjyWZZO",
+            "to_name": "isi",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Not Misleading"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "isi": "\nJakarta - Sidang lanjutan kasus dugaan penyiraman air keras terhadap Novel Baswedan, digelar hari ini. Agenda sidang adalah pembacaan vonis terhadap para terdakwa, yakni Ronny Bugis dan Rahmat Kadir.Pejabat Humas Pengadilan Negeri Jakarta Utara, Djuyamto menyebut terdakwa akan mengikuti sidang secara teleconference. Menurutnya, sidang tersebut rencananya akan digelar pukul 10.00 WIB.\"Ya (sidang akan digelar hari ini). Teleconference,\" kata Djuyamto kepada wartawan, Rabu (15/7/2020).\nUntuk diketahui, dua penyerang Novel Baswedan, Ronny Bugis dan Rahmat Kadir, dituntut jaksa penuntut umum dengan hukuman 1 tahun penjara. Jaksa meyakini keduanya bersalah melakukan penganiayaan berat terhadap Novel Baswedan.Keduanya terbukti melakukan tindak pidana sebagaimana dakwaan subsider. Ronny dan Rahmat diyakini jaksa bersalah melanggar Pasal 353 ayat 2 KUHP juncto Pasal 55 ayat (1) ke-1 KUHP.\"Menuntut supaya majelis hakim Pengadilan Jakarta Utara yang memeriksa dan mengadili perkara ini memutuskan, menyatakan terdakwa terbukti secara sah dan meyakinkan melakukan tindak pidana melakukan penganiayaan dan terencana lebih dahulu dengan mengakibatkan luka berat,\" ujar jaksa saat membacakan surat tuntutan di PN Jakarta Utara, Jalan Gajah Mada, Petojo Utara, Gambir, Jakarta Pusat, Kamis (11/6).Jaksa menegaskan unsur penganiayaan berat dalam kasus ini sudah terpenuhi. Keduanya menyiramkan cairan asam sulfat ke Novel di daerah kediaman Novel, aksi itu dilakukan setelah Novel melaksanakan salat Subuh berjemaah di masjid dekat rumahnya. Keduanya disebut jaksa sudah membuat rencana menyerang Novel.Jaksa juga memberi penjelasan soal tuntutan 1 tahun penjara kepada kedua orang tersebut. Jaksa beralasan tuntutan itu sesuai dengan pasal yang diterapkan lantaran menurut jaksa kedua terdakwa tidak berniat sedari awal menargetkan untuk melukai bagian wajah Novel.\"Bahwa dalam fakta persidangan, terdakwa tidak pernah menginginkan melakukan penganiayaan berat. Terdakwa hanya akan memberikan pelajaran kepada saksi Novel Baswedan dengan melakukan penyiraman cairan air keras ke Novel Baswedan ke badan. Namun mengenai kepala korban. Akibat perbuatan terdakwa, saksi Novel Baswedan mengakibatkan tidak berfungsi mata kiri sebelah hingga cacat permanen,\" ujar jaksa saat membacakan tuntutan.\n(fas/knv)\npenyiraman air keras\nnovel baswedan\nair keras\nnovel baswedan disiram air keras\nsidang novel baswedan\n",
+      "judul": "Dituntut 1 Tahun Bui, 2 Penyerang Novel Baswedan Hadapi Vonis Hari Ini",
+      "sumber": "Detik",
+      "tanggal": "Kamis, 16 Jul 2020 06:17 WIB"
+    },
+    "id": 17,
+    "predictions": []
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1594866914,
+        "id": 45001,
+        "lead_time": 204.641,
+        "result": [
+          {
+            "from_name": "clickbait",
+            "id": "y9lMkis00U",
+            "to_name": "judul",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Neutral"
+              ]
+            }
+          },
+          {
+            "from_name": "misleading",
+            "id": "94w-wMgnJ4",
+            "to_name": "isi",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Not Misleading"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "isi": "\n DEPOK, KOMPAS.com - Wakil Wali Kota Depok Pradi Supriatna menganggap, pemberian tunjangan untuk menopang kebutuhan  internet bagi siswa-siswi yang harus bersekolah online di masa pandemi bukan urusan rumit. Sebagai informasi, sehubungan dengan pandemi Covid-19 yang masih merebak dan Depok menjadi salah satu wilayah dengan kasus terbanyak di Jawa Barat, pembelajaran murid di Depok masih harus secara online sampai akhir tahun nanti. \"Saya pikir ini bukan hal yang njelimet banget. Saya rasa tidak masalah itu, disegerahkan saja oleh gugus tugas,\" ujar Pradi kepada wartawan, Rabu (15/7/2020).\nBaca juga:  \"Idealnya ada lah (tunjangan biaya internet untuk murid di Depok). Semua kegiatan dipangkas kok untuk 2020 ini, dari 30 sakpai 60 persen dari masing-masing dinas untuk dampak Covid-19. Artinya, cadangannya kan besar sekali,\" imbuhnya. Pradi yang tak masuk dalam jajaran Gugus Tugas Percepatan Penanganan Covid-19 Kota Depok beranggapan, tunjangan biaya internet merupakan hal yang penting bagi murid di Depok di setiap jenjang pendidikan, sebab setiap hari kegiatan sekolah berlangsung secara virtual. Ia bilang, tak semua warga di Depok memiliki akses wifi di rumahnya sehingga harus terus-menerus membeli paket internet.\nBaca juga:  Urusan pendidikan yang terdampak oleh Covid-19, menurut Pradi, sama pentingnya dengan kebutuhan pangan warga. \"Saya dukung, saya dorong untuk menggunakan itu (dana penanggulangan Covid-19 untuk tunjangan biaya internet),\" kata Pradi. \"Siswa berapa sih? Tidak sampai 50.000 kan? Ini bisa lah nanti. Mekanismenya kan ada KIA (kartu identitas anak) atau mungkin pihak sekolahnya koordinasi dengan dinas pendidikan. Saya pikir tidak rumit,\" pungkas dia. ",
+      "judul": "Biaya Internet Sekolah Online Mahal, Wakil Wali Kota Depok Klaim Mampu Beri Tunjangan",
+      "sumber": "Kompas",
+      "tanggal": "Kompas.com - 16/07/2020, 06:27 WIB"
+    },
+    "id": 45
+  },
+  {
+    "completions": [
+      {
         "created_at": 1591515798,
         "id": 12001,
         "lead_time": 10.844,

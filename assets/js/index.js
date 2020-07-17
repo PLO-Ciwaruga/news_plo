@@ -7,17 +7,19 @@ $(document).ready(function () {
         var countNonMisleading = 0;
         $.each(data, function (key, value) {
             countAll = key;
-            if (value.completions[0].result[0].value.choices == "Clickbait") {
-                countClickbait += 1;
-            } else
-            {
-                countNonClickbait += 1;
-            }
-            if (value.completions[0].result[1].value.choices == "Not Misleading") {
-                countNonMisleading += 1;
-            } else
-            {
-                countMisleading += 1;
+            if(value.completions[0].result[0] != undefined) {
+                if (value.completions[0].result[0].value.choices == "Clickbait") {
+                    countClickbait += 1;
+                } else
+                {
+                    countNonClickbait += 1;
+                }
+                if (value.completions[0].result[1].value.choices == "Not Misleading") {
+                    countNonMisleading += 1;
+                } else
+                {
+                    countMisleading += 1;
+                }
             }
         });
         $('#news-all').append(countAll+1);
